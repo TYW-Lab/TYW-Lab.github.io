@@ -1,13 +1,13 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "Tianyu Wang"
+  uri         : "http://name_test.com"
+  email       : "name@changed.com"
+  bio         : "This is the first name. Test"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "name test"
+  google_plus : "Name test"
 
 Name2 Name2:
   name        : "Name2 Name2"
