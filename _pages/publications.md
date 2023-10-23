@@ -211,6 +211,31 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2017_MIIPS.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						G. Rasskazov, A. Ryabtsev, K. Charan, T. Wang, C. Xu, and M. Dantus<br />
+						<span style="font-weight:bold;">Characterization and adaptive compression of a multi-soliton laser source</span><br/>
+						<a href="https://doi.org/10.1364/OE.25.000320" style="font-weight:bold;"><i>Optics Express</i> <b>25</b>,  320–329 (2017)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
+		<h2>2016</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2016_NIRSoliton.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						Y. Tang, L.G. Wright, K. Charan, T. Wang, C. Xu, and F.W. Wise<br />
+						<span style="font-weight:bold;">Generation of intense 100 fs solitons tunable from 2 to 4.3 μm in fluoride fiber</span><br/>
+						<a href="https://doi.org/10.1364/OPTICA.3.000948" style="font-weight:bold;"><i>Optica</i> <b>3</b>,  948–951 (2016)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 	</div>
 </section>
 
