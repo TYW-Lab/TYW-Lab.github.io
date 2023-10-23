@@ -22,7 +22,7 @@ author_profile: false
 				<a href="https://arxiv.org/abs/2307.15712" style="font-weight:bold;"><i>arXiv:2307.15712</i> (2023)</a>
 			</div><br clear="all" />
 			<div style="font-size:12pt;line-height:1.5;">
-				<span class="image left" style="max-width:150px;">
+				<span class="image left" style="max-width:50px;">
 					<img src="../images/publications/2023_Wang.png" />
 				</span>
 				T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
