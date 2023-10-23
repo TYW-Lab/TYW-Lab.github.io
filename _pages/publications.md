@@ -77,7 +77,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2022_Wang.png" width="100%"/>
+						<img src="../images/publications/2022_Wang.png" width="90%"/>
 					</div>
 					<div class="columntext">
 						T. Wang, S.-Y. Ma, L.G. Wright, T. Onodera, B. Richard, P.L. McMahon<br />
