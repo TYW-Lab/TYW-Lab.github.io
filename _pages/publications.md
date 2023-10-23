@@ -89,7 +89,7 @@ author_profile: false
 		        <div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2022_Sinefeld.png" width="100%"/>
+						<img src="../images/publications/2022_Sinefeld.png" width="90%"/>
 					</div>
 					<div class="columntext">
 						D. Sinefeld, F. Xia, M. Wang, T. Wang, C. Wu, X. Yang, H.P. Paudel, D.G. Ouzounov, T.G. Bifano, C. Xu<br />
