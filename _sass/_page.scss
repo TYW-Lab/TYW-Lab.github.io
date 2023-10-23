@@ -372,6 +372,26 @@
   }
 }
 
+.row {
+    display: flex; /* This enables the flexbox layout mode, which makes creating rows and columns easy */
+    flex-wrap: nowrap; /* This ensures the columns don't wrap to the next line */
+    align-items: left; /* Vertically centers the content in the row */
+    margin-bottom: 20px; /* Adds some spacing after each row */
+}
+
+.columnfig, .columntext {
+    padding: 10px; /* Adds some spacing around the content in each column */
+}
+
+.columnfig {
+    flex-basis: 15%; /* Sets the default width of the image column */
+    max-width: 15%; /* Ensures the image column doesn't grow larger than this */
+}
+
+.columntext {
+    flex-grow: 1; /* Allows the text column to take up the remaining space in the row */
+}
+
 
 /*
    Related
