@@ -385,8 +385,8 @@
 
 .columnfig {
     flex-basis: 20%; /* Sets the default width of the image column */
-    max-width: 20%; /* Ensures the image column doesn't grow larger than this */
-    flex-grow: 2;
+    max-width: 30%; /* Ensures the image column doesn't grow larger than this */
+    flex-grow: 1;
 }
 
 .columntext {
