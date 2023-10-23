@@ -31,7 +31,7 @@ author_profile: false
 			</div><br clear="all" />
 			<div style="font-size:12pt;line-height:1.5;">
 				<span class="image left" style="max-width:150px;">
-					<img src="images/publications/2023_Wang.png" />
+					<img src="../images/publications/2023_Wang.png" />
 				</span>
 				T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
 				<span style="font-weight:bold;">Image sensing with multilayer, nonlinear optical neural networks</span><br/>
