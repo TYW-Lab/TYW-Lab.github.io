@@ -12,10 +12,7 @@ author_profile: false
 
 <section id="main" >
 				<div class="inner">
-					<header class="major special">
-						<h1>Publications</h1>
-					</header>
-					<h3>2023</h3>
+					<h2>2023</h2>
 					<div style="font-size:12pt;line-height:1.5;">
 						<span class="image left" style="max-width:150px;">
 							<img src="images/publications/2023_McMahon.png" />
