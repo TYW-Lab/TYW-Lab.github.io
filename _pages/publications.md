@@ -65,6 +65,18 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
+						<img src="../images/publications/2022_Choe.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						K. Choe, Y. Hotani, T. Wang, E. Hebert, D.G. Ouzounov, K. Lai, A. Singh, W. Béguelin, A.M. Melnick, C. Xu<br />
+						<span style="font-weight:bold;">Intravital three-photon microscopy allows visualization over the entire depth of mouse lymph nodes</span><br/>
+						<a href="https://doi.org/10.1038/s41590-021-01101-1" style="font-weight:bold;"><i>Nature Immunology</i> <b>23</b>, 330 - 340 (2022)</a>
+					</div>
+				</div>
+			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
 						<img src="../images/publications/2022_Wang.png" width="100%"/>
 					</div>
 					<div class="columntext">
