@@ -23,14 +23,6 @@ author_profile: false
 			</div><br clear="all" />
 			<div style="font-size:12pt;line-height:1.5;">
 				<span class="image left" style="max-width:150px;">
-					<img src="images/publications/2023_Senanian.png" />
-				</span>
-				A. Senanian, L.G. Wright, P.F. Wade, H.K. Doyle, P.L. McMahon<br />
-				<span style="font-weight:bold;">Programmable large-scale simulation of bosonic transport in optical synthetic frequency lattices</span><br/>
-				<a href="https://doi.org/10.1038/s41567-023-02075-7" style="font-weight:bold;"><i>Nature Physics</i> <b>19</b>, 1333 - 1339 (2023)</a> | <a href="https://arxiv.org/abs/2208.05088">arXiv</a>
-			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
-				<span class="image left" style="max-width:150px;">
 					<img src="../images/publications/2023_Wang.png" />
 				</span>
 				T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
