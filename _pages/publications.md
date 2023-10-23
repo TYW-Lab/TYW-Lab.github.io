@@ -93,7 +93,7 @@ author_profile: false
 					</div>
 					<div class="columntext">
 						D. Sinefeld, F. Xia, M. Wang, T. Wang, C. Wu, X. Yang, H.P. Paudel, D.G. Ouzounov, T.G. Bifano, C. Xu<br />
-						<span style="font-weight:bold;">Three-Photon Adaptive Optics for Mouse Brain Imaging</span><br/>
+						<span style="font-weight:bold;">Three-photon adaptive optics for mouse brain imaging</span><br/>
 						<a href="https://doi.org/10.3389/fnins.2022.880859" style="font-weight:bold;"><i>Frontiers in Neuroscience</i> <b>16</b>, 880859 (2022)</a> 
 					</div>
 				</div>
@@ -102,7 +102,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2022_MiCrONs.png" width="100%"/>
+						<img src="../images/publications/2021_MiCrONs.png" width="100%"/>
 					</div>
 					<div class="columntext">
 						The MICrONS Consortium. J.A. Bae, ... C. Zhang<br />
@@ -112,6 +112,18 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 		<h2>2020</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2020_Optica.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						T. Wang, and C. Xu<br />
+						<span style="font-weight:bold;">Three-photon neuronal imaging in deep mouse brain</span><br/>
+						<a href="https://doi.org/10.1364/OPTICA.395825" style="font-weight:bold;"><i>Optica</i> <b>7</b>, 947-960 (2020)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2019</h2>
 		<h2>2018</h2>
 		<h2>2017</h2>
