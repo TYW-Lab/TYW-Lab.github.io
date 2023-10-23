@@ -9,11 +9,5 @@ main:
   - title: "People"
     url: /people/ 
 
-  - title: "Teaching"
-    url: /teaching/   
-
   - title: "Contact Us"
     url: /contact/ 
-        
-  - title: "Blog Posts"
-    url: /year-archive/
