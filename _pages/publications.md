@@ -16,7 +16,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2023_Wang.png" width="100%"/>
+						<img src="../images/publications/2023_Wang.png" width="105%"/>
 					</div>
 					<div class="columntext">
 						T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
@@ -161,8 +161,56 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 		<h2>2019</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2019_DFF.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						D.G. Ouzounov, T. Wang, C. Wu, and C. Xu<br />
+						<span style="font-weight:bold;">GCaMP6 ΔF/F dependence on the excitation wavelength in 3-photon and 2-photon microscopy of mouse brain activity</span><br/>
+						<a href="https://doi.org/10.1364/BOE.10.003343" style="font-weight:bold;"><i>Biomedical Optics Express</i> <b>10</b>, 3343-3352 (2019)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
+		        <div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2019_DFF.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						D.G. Ouzounov, T. Wang, C. Wu, and C. Xu<br />
+						<span style="font-weight:bold;">GCaMP6 ΔF/F dependence on the excitation wavelength in 3-photon and 2-photon microscopy of mouse brain activity</span><br/>
+						<a href="https://doi.org/10.1364/BOE.10.003343" style="font-weight:bold;"><i>Biomedical Optics Express</i> <b>10</b>, 3343-3352 (2019)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2018</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2018_skull.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						T. Wang, D.G. Ouzounov, C. Wu, N.G. Horton, B. Zhang, C.-H. Wu, Y. Zhang, M.J. Schnitzer, and C. Xu<br />
+						<span style="font-weight:bold;">Three-photon imaging of mouse brain structure and function through the intact skull</span><br/>
+						<a href="https://doi.org/10.1038/s41592-018-0115-y" style="font-weight:bold;"><i>Nature Methods</i> <b>15</b>,  789–792 (2018)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2017</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2017_hippocampus.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						D.G. Ouzounov*, T. Wang*, M. Wang, D.D. Feng, N.G. Horton, J.C. Cruz-Hernández, Y.-T. Cheng, J. Reimer, A.S. Tolias, N. Nishimura, and C. Xu<br />
+						<span style="font-weight:bold;">In vivo three-photon imaging of activity of GCaMP6-labeled neurons deep in intact mouse brain</span><br/>
+						<a href="https://doi.org/10.1038/nmeth.4183" style="font-weight:bold;"><i>Nature Methods</i> <b>14</b>,  388–390 (2017)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 	</div>
 </section>
 
