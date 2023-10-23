@@ -173,18 +173,6 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		        <div style="font-size:12pt;line-height:1.5;">
-				<div class="row">
-					<div class="columnfig">
-						<img src="../images/publications/2019_DFF.png" width="100%"/>
-					</div>
-					<div class="columntext">
-						D.G. Ouzounov, T. Wang, C. Wu, and C. Xu<br />
-						<span style="font-weight:bold;">GCaMP6 ΔF/F dependence on the excitation wavelength in 3-photon and 2-photon microscopy of mouse brain activity</span><br/>
-						<a href="https://doi.org/10.1364/BOE.10.003343" style="font-weight:bold;"><i>Biomedical Optics Express</i> <b>10</b>, 3343-3352 (2019)</a> 
-					</div>
-				</div>
-			</div><br clear="all" />
 		<h2>2018</h2>
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
