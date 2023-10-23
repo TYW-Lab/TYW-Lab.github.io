@@ -124,6 +124,30 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2020_MOTES.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						S. Lee, A.J. Cortese, A. Mok, C. Wu, T. Wang, J.U. Park, C.L. Smart, S. Ghajari, D. Khilani, S. Sadeghi, Y. Ji, J.H. Goldberg, C. Xu, and P.L. McEuen<br />
+						<span style="font-weight:bold;">Fabrication of Injectable Micro-Scale Opto-Electronically Transduced Electrodes (MOTEs) for Physiological Monitoring</span><br/>
+						<a href="https://doi.org/10.1109/JMEMS.2020.2999496" style="font-weight:bold;"><i>Journal of Microelectromechanical Systems</i> <b>29</b>, 720-726 (2020)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2020_OWICS.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						A.J. Cortese, C.L. Smart, T. Wang, M.F. Reynolds, S.L. Norris, Y. Ji, S. Lee, A. Mok, C. Wu, F. Xia, N.I. Ellis, A.C. Molnar, C. Xu, and P.L. McEuen<br />
+						<span style="font-weight:bold;">Microscopic sensors using optical wireless integrated circuits</span><br/>
+						<a href="https://doi.org/10.1073/pnas.1919677117" style="font-weight:bold;"><i>Proceedings of the National Academy of Sciences</i> <b>117</b>, 9173-9179 (2020)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2019</h2>
 		<h2>2018</h2>
 		<h2>2017</h2>
