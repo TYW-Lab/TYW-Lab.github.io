@@ -86,6 +86,18 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
+		        <div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2022_Sinefeld.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						D. Sinefeld, F. Xia, M. Wang, T. Wang, C. Wu, X. Yang, H.P. Paudel, D.G. Ouzounov, T.G. Bifano, C. Xu<br />
+						<span style="font-weight:bold;">Three-Photon Adaptive Optics for Mouse Brain Imaging</span><br/>
+						<a href="https://doi.org/10.3389/fnins.2022.880859" style="font-weight:bold;"><i>Frontiers in Neuroscience</i> <b>16</b>, 880859 (2022)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2021</h2>
 		<h2>2020</h2>
 		<h2>2019</h2>
