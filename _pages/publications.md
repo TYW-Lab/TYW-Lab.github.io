@@ -99,6 +99,18 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 		<h2>2021</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2022_MiCrONs.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						The MICrONS Consortium. J.A. Bae, ... C. Zhang<br />
+						<span style="font-weight:bold;">Functional connectomics spanning multiple areas of mouse visual cortex</span><br/>
+						<a href="https://doi.org/10.1101/2021.07.28.454025" style="font-weight:bold;"><i>bioRxiv</i>, 2021.07.28.454025 (2021)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2020</h2>
 		<h2>2019</h2>
 		<h2>2018</h2>
