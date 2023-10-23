@@ -16,7 +16,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2023_Wang.png" width="68%"/>
+						<img src="../images/publications/2023_Wang.png" width="100%"/>
 					</div>
 					<div class="columntext">
 						T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
