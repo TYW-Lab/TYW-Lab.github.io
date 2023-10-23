@@ -148,6 +148,18 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
+		        <div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2020_eLife.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						T. Wang*, C. Wu*, D.G. Ouzounov, W. Gu, F. Xia, M. Kim, X. Yang, M.R. Warden, and C. Xu<br />
+						<span style="font-weight:bold;">Quantitative analysis of 1300-nm three-photon calcium imaging in the mouse brain</span><br/>
+						<a href="https://doi.org/10.7554/eLife.53205" style="font-weight:bold;"><i>eLife</i> <b>9</b>, e53205 (2020)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2019</h2>
 		<h2>2018</h2>
 		<h2>2017</h2>
