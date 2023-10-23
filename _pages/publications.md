@@ -62,6 +62,18 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2022_Wang.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						T. Wang, S.-Y. Ma, L.G. Wright, T. Onodera, B. Richard, P.L. McMahon<br />
+						<span style="font-weight:bold;">An optical neural network using less than 1 photon per multiplication</span><br/>
+						<a href="https://doi.org/10.1038/s41467-021-27774-8" style="font-weight:bold;"><i>Nature Communications</i> <b>13</b>, 123 (2022)</a> | <a href="https://arxiv.org/abs/2104.13467">arXiv</a> | <a href="https://github.com/mcmahon-lab/ONN-QAT-SQL">code repo</a>
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2021</h2>
 		<h2>2020</h2>
 		<h2>2019</h2>
