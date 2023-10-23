@@ -53,7 +53,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2022_Wright.png" width="100%"/>
+						<img src="../images/publications/2022_Wright.png" width="80%"/>
 					</div>
 					<div class="columntext">
 						L.G. Wright*, T. Onodera*, M.M. Stein, T. Wang, D.T. Schachter, Z. Hu, P.L. McMahon<br />
