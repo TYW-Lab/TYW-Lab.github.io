@@ -50,6 +50,18 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 		<h2>2022</h2>
+			<div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2022_Wright.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						L.G. Wright*, T. Onodera*, M.M. Stein, T. Wang, D.T. Schachter, Z. Hu, P.L. McMahon<br />
+						<span style="font-weight:bold;">Deep physical neural networks trained with backpropagation</span><br/>
+						<a href="https://doi.org/10.1038/s41586-021-04223-6" style="font-weight:bold;"><i>Nature</i> <b>601</b>, 549 - 555 (2022)</a> | <a href="https://arxiv.org/abs/2104.13386">arXiv</a> | <a href="https://github.com/mcmahon-lab/Physics-Aware-Training">code repo</a>
+					</div>
+				</div>
+			</div><br clear="all" />
 		<h2>2021</h2>
 		<h2>2020</h2>
 		<h2>2019</h2>
