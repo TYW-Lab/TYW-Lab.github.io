@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tianyu Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Boston MA, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=en"
@@ -197,7 +197,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
@@ -243,13 +243,6 @@ defaults:
     values:
       layout: talk
       author_profile: false
-      share: true
-  - scope:
-      path: ""
-      type: contact
-    values:
-      layout: archive
-      author_profile: true
       share: true
 
 # Sass/SCSS
