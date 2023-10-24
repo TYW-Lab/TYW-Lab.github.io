@@ -1,5 +1,6 @@
 ---
-title: "Contact Us"
+title: "Join Us"
 permalink: /contact/
-author_profile: false
+author_profile: true
 ---
+

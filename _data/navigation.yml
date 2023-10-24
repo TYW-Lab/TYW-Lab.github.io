@@ -6,8 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "People"
-    url: /people/ 
-
-  - title: "Contact Us"
+  - title: "Join Us"
     url: /contact/ 
