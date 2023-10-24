@@ -244,6 +244,13 @@ defaults:
       layout: talk
       author_profile: false
       share: true
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: archive
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
