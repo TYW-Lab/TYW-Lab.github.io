@@ -156,7 +156,7 @@ author_profile: false
 					<div class="columntext">
 						T. Wang*, C. Wu*, D.G. Ouzounov, W. Gu, F. Xia, M. Kim, X. Yang, M.R. Warden, and C. Xu<br />
 						<span style="font-weight:bold;">Quantitative analysis of 1300-nm three-photon calcium imaging in the mouse brain</span><br/>
-						<a href="https://doi.org/10.7554/eLife.53205" style="font-weight:bold;"><i>eLife</i> <b>9</b>, e53205 (2020)</a> 
+						<a href="https://doi.org/10.7554/eLife.53205" style="font-weight:bold;"><i>eLife</i> <b>9</b>, e53205 (2020)</a>  | <a href="https://www.biorxiv.org/content/10.1101/846535v1">bioRxiv</a> | <a href="https://github.com/gangsterKitty/3P-Brain-Heating">code repo</a>
 					</div>
 				</div>
 			</div><br clear="all" />
