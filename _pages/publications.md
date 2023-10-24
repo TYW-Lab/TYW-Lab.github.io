@@ -130,7 +130,7 @@ author_profile: false
 						<img src="../images/publications/2020_MOTE.png" width="100%"/>
 					</div>
 					<div class="columntext">
-						S. Lee, A.J. Cortese, A. Mok, C. Wu, T. Wang, J.U. Park, C.L. Smart, S. Ghajari, D. Khilani, S. Sadeghi, Y. Ji, J.H. Goldberg, C. Xu, and P.L. McEuen<br />
+						S. Lee, A.J. Cortese, A. Mok, C. Wu, T. Wang, J.U. Park, C.L. Smart, S. Ghajari, D. Khilani, S. Sadeghi, Y. Ji, J.H. Goldberg, C. Xu, P.L. McEuen, and A.C. Molnar<br />
 						<span style="font-weight:bold;">Fabrication of Injectable Micro-Scale Opto-Electronically Transduced Electrodes (MOTEs) for Physiological Monitoring</span><br/>
 						<a href="https://doi.org/10.1109/JMEMS.2020.2999496" style="font-weight:bold;"><i>Journal of Microelectromechanical Systems</i> <b>29</b>, 720-726 (2020)</a> 
 					</div>
