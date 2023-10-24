@@ -127,7 +127,7 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2020_MOTES.png" width="100%"/>
+						<img src="../images/publications/2020_MOTE.png" width="100%"/>
 					</div>
 					<div class="columntext">
 						S. Lee, A.J. Cortese, A. Mok, C. Wu, T. Wang, J.U. Park, C.L. Smart, S. Ghajari, D. Khilani, S. Sadeghi, Y. Ji, J.H. Goldberg, C. Xu, and P.L. McEuen<br />
