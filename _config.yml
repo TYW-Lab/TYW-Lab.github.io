@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tianyu Wang"
   avatar           : "profile.jpg"
-  bio              : # "Interested in "
+  bio              : "Email: wangty_AT_bu.edu"
   location         : "Boston MA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=en"
-  email            : "wangty_at_bu.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
