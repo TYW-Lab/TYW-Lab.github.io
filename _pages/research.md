@@ -6,6 +6,6 @@ author_profile: false
 
 In this lab, we will develop novel systems, methods, and applications for optical imaging, sensing, and computing, through the lens of treating physical systems as computing systems.
 
-Physical systems have triple identities: they can be abstracted as physics, dynamical systems, or information processing systems, or all of the three at the same time. Historically, the discussion of computational properties of physical systems have been restricted to digital computing models, and only until recently, it is realized that it is more natural to describe them as artificial neural networks. Artficial neural networks, or more broadly neuromorphic computing models, do not rely on digital computers to operate, but can intrinsically work with analog encoding with noise. 
+Physical systems have triple identities: they can be abstracted as physics, dynamical systems, or information processing systems, or all of the three at the same time. Historically, the discussion of computational properties of physical systems have been restricted to digital computing models, and only until recently, it is realized that it may be more natural to describe them as artificial neural networks, which are intrisically analog computing models that work extremely well with noise. 
 
 More detailed research quesetions and cases coming up soon!
