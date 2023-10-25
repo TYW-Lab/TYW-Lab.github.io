@@ -13,9 +13,9 @@ author_profile: true
 1. You are eager to learn programming and machine learning skills, and use them to solve scientific problems, which typically involve a fair amount of coding, some understanding of computer hardware, coming up with solutions that do not yet exist, and lots of debugging.
 1. You enjoy overcoming challenges in optical experiments, which typically involve careful handling of delicate instrument, taming funky equipment, planning and time management, and lots of trial and error to get things to work.
 1. You are interested in certain biological questions that can be studied by optical imaging (or already an expert in that field), and are adventruous enough for biological experiments. 
-1. You are interested in horning your writing skills to better convey your thoughts and discoveries to the scientific community or beyond. 
-1. You enjoy working in a team, sharing your knowledge and learning from others (including your peers, seniors, and juniors).
+1. You are interested in honing your writing skills in order to be better at conveying your ideas and discoveries to the scientific community and beyond. 
+1. You enjoy working in a team, sharing your knowledge, and learning from others (including your peers, seniors, and juniors).
 
-If you have not applied to a Ph.D. program yet, you may consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics concetrantion) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are December 15, 2023. 
+If you have not applied to a Ph.D. program yet, you may consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are December 15, 2023. 
 
-<b>For prospective postdocs</b>: 
+<b>For prospective postdocs</b>: I currently have one open position for postdoc. Please contact me as long as you are interested in our research topics.
