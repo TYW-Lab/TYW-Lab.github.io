@@ -11,7 +11,7 @@ author_profile: true
 1. You are fascinated by certain scientific questions and have the desire to create your own artifact (theory, methods, discoveries, or invention). 
 1. You are comfortable with the open-ended nature of research, and can effectively utilize literature, discussions, and, most importantly, independent thinking to chart a way forward.
 1. You are eager to learn programming and machine learning skills, and use them to solve scientific problems, which typically involve a fair amount of coding, some understanding of computer hardware, coming up with solutions that do not yet exist, and lots of debugging.
-1. You enjoy overcoming challenges in optical experiments, which typically involve careful handling of delicate instrument, taming funky equipment, planning and time management, and lots of trial and error to get things to work.
+1. You enjoy overcoming challenges in optical experiments, which typically involve careful handling of delicate instrument, taming funky equipment, plenty of planning and time management, and lots of trial and error to get things to work.
 1. You are interested in certain biological questions that can be studied by optical imaging (or already an expert in that field), and are adventruous enough for biological experiments. 
 1. You are interested in honing your writing skills in order to be better at conveying your ideas and discoveries to the scientific community and beyond. 
 1. You enjoy working in a team, sharing knowledge among team members, and learning from others (including your peers, seniors, and juniors).
