@@ -16,6 +16,6 @@ author_profile: true
 1. You are interested in honing your writing skills in order to be better at conveying your ideas and discoveries to the scientific community and beyond. 
 1. You enjoy working in a team, sharing knowledge among team members, and learning from others (including your peers, seniors, and juniors).
 
-If you have not applied to a Ph.D. program yet, you may consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are December 15, 2023. 
+If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are December 15, 2023. 
 
 <b>For prospective postdocs</b>: I currently have one open position for postdoc. Please contact me as long as you are interested in our research topics.
