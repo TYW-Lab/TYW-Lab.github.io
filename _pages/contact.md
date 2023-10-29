@@ -20,7 +20,7 @@ In addition to general qualities, there are domain-specific skills that influenc
 * Optical instrumentation track: You enjoy the process of overcoming challenges in optical experiments, which typically involve meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work.
 * Biomedical track: You're drawn to specific biological queries that can be studied through optical imaging. Whether you're already an expert or just starting out, you aim to showcase how your technological approach can elucidate real biological problems through hands-on experiments.
 
-However, no matter you are more experimental or computational oriented, learning skills from the other side will significantly facilitate your career and enhance your research outcomes. 
+However, no matter you are more experimental or computational oriented, learning skills from the other side will significantly facilitate your research progress and enhance your research outcomes. 
 
 If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <u>December 15, 2023</u>. 
 
