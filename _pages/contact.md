@@ -8,17 +8,19 @@ author_profile: true
 
 <b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please send me an email (wangty_AT_bu.edu) with your CV and publication list. You will be a good fit if <i>some</i> of the following describe you:
 
-1. Scientific motivation: You are attracted by certain scientific questions and have the desire to create your own artifact (methods, discoveries, invention, or theory). 
-1. Research instinct: You are comfortable with the open-ended nature of research, and can effectively utilize literature, discussions, and independent thinking to chart a way forward.
-1. Input skills: You like to follow active research topics going on in your research field through following papers to read and attending talks. 
-1. Output skills: You want to be a better writer and presenter in order to convey your ideas and discoveries to the scientific community and beyond. 
-1. Teamwork skills: You enjoy working in a team, which includes sharing knowledge among team members, learning through positive and negative feedback from others (including your peers, seniors, and juniors), and coordinating with colleagues to finish goals otherwise difficult to accomplish by oneself.
+1. Scientific motivation: You are intrigued by a certain class of scientific problems and have the desire to create your own artifact (methods, discoveries, invention, or theory). 
+1. Research instinct: You embrace the open-ended nature of research, and are willing to master the art of navigating uncertainties, using literature, discussion, and independent thinking as your guide.
+1. Input skills: You enjoy keeping up with the latest research trends in your field by consistently browsing papers and attending relevant talks.
+1. Output skills: You wish to develop writing and presentation skills to effectively communicate your findings and ideas to the scientific community and the broader audience. 
+1. Teamwork skills: You thrive in a collaborative environment, valuing knowledge-sharing, learning from feedback (from peers, superiors, and subordinates alike), and close collaborations with colleagues to achieve objectives that might be challenging to tackle solo.
 
-Besdies the general qualites, there are domain specific skills determining what disciplines you will work on:
+In addition to general qualities, there are domain-specific skills that influence which tracks you will specialize in:
 
-* Computational track: You are eager to learn programming and machine learning skills, and use them to solve scientific problems, which typically involve a fair amount of coding, some understanding of computer hardware, creating your own solutions that do not yet exist, and lots of debugging.
-* Optical experiments track: You enjoy overcoming challenges in optical experiments, which typically involve careful handling of delicate instrument, taming funky equipment, plenty of planning and time management, and lots of trial and error to get things to work.
-* Biomedical track: You are interested in certain biological questions that can be studied by optical imaging (or already an expert in that field), and wish to demonstrate how your technology can help to solve real biological questions through experiments. 
+* Computational track: You're keen on mastering programming and machine learning to address scientific challenges. This often requires substantial coding, a basic understanding of computer hardware, crafting your own solutions, and lots of debugging. 
+* Optical instrumentation track: You enjoy the process of overcoming challenges in optical experiments, which typically involve meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work.
+* Biomedical track: You're drawn to specific biological queries that can be studied through optical imaging. Whether you're already an expert or just starting out, you aim to showcase how your technological approach can elucidate real biological problems through hands-on experiments.
+
+However, no matter you are more experimental or computational oriented, learning skills from the other side will significantly facilitate your career and enhance your research outcomes. 
 
 If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <u>December 15, 2023</u>. 
 
