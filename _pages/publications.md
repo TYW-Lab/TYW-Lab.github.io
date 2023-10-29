@@ -225,5 +225,6 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 	</div>
+	* denotes equal contribution; <span>&#8224;</span> denotes corresponding author.
 </section>
 
