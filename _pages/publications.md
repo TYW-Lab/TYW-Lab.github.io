@@ -19,7 +19,7 @@ author_profile: false
 						<img src="../images/publications/2023_Wang.png" width="105%"/>
 					</div>
 					<div class="columntext">
-						T. Wang*, M.M. Sohoni*, L.G. Wright, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<br />
+						T. Wang*<sup>&dagger;</sup>, M.M. Sohoni*<sup>&dagger;</sup>, L.G. Wright<sup>&dagger;</sup>, M.M. Stein, S.-Y. Ma, T. Onodera, M. Anderson, P.L. McMahon<sup>&dagger;</sup><br />
 						<span style="font-weight:bold;">Image sensing with multilayer, nonlinear optical neural networks</span><br/>
 						<a href="https://doi.org/10.1038/s41566-023-01170-8" style="font-weight:bold;"><i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023)</a> | <a href="https://arxiv.org/abs/2207.14293">arXiv</a> | <a href="https://github.com/mcmahon-lab/Image-sensing-with-multilayer-nonlinear-optical-neural-networks">code repo</a>
 					</div>
@@ -80,7 +80,7 @@ author_profile: false
 						<img src="../images/publications/2022_Wang.png" width="90%"/>
 					</div>
 					<div class="columntext">
-						T. Wang, S.-Y. Ma, L.G. Wright, T. Onodera, B. Richard, P.L. McMahon<br />
+						T. Wang<sup>&dagger;</sup>, S.-Y. Ma, L.G. Wright, T. Onodera, B. Richard, P.L. McMahon<sup>&dagger;</sup><br />
 						<span style="font-weight:bold;">An optical neural network using less than 1 photon per multiplication</span><br/>
 						<a href="https://doi.org/10.1038/s41467-021-27774-8" style="font-weight:bold;"><i>Nature Communications</i> <b>13</b>, 123 (2022)</a> | <a href="https://arxiv.org/abs/2104.13467">arXiv</a> | <a href="https://github.com/mcmahon-lab/ONN-QAT-SQL">code repo</a>
 					</div>
@@ -154,7 +154,7 @@ author_profile: false
 						<img src="../images/publications/2020_eLife.png" width="100%"/>
 					</div>
 					<div class="columntext">
-						T. Wang*, C. Wu*, D.G. Ouzounov, W. Gu, F. Xia, M. Kim, X. Yang, M.R. Warden, and C. Xu<br />
+						T. Wang*<sup>&dagger;</sup>, C. Wu*, D.G. Ouzounov, W. Gu, F. Xia, M. Kim, X. Yang, M.R. Warden, and C. Xu<sup>&dagger;</sup><br />
 						<span style="font-weight:bold;">Quantitative analysis of 1300-nm three-photon calcium imaging in the mouse brain</span><br/>
 						<a href="https://doi.org/10.7554/eLife.53205" style="font-weight:bold;"><i>eLife</i> <b>9</b>, e53205 (2020)</a>  | <a href="https://www.biorxiv.org/content/10.1101/846535v1">bioRxiv</a> | <a href="https://github.com/gangsterKitty/3P-Brain-Heating">code repo</a>
 					</div>
@@ -180,7 +180,7 @@ author_profile: false
 						<img src="../images/publications/2018_skull.png" width="100%"/>
 					</div>
 					<div class="columntext">
-						T. Wang, D.G. Ouzounov, C. Wu, N.G. Horton, B. Zhang, C.-H. Wu, Y. Zhang, M.J. Schnitzer, and C. Xu<br />
+						T. Wang<sup>&dagger;</sup>, D.G. Ouzounov, C. Wu, N.G. Horton, B. Zhang, C.-H. Wu, Y. Zhang, M.J. Schnitzer, and C. Xu<sup>&dagger;</sup><br />
 						<span style="font-weight:bold;">Three-photon imaging of mouse brain structure and function through the intact skull</span><br/>
 						<a href="https://doi.org/10.1038/s41592-018-0115-y" style="font-weight:bold;"><i>Nature Methods</i> <b>15</b>,  789–792 (2018)</a> 
 					</div>
@@ -225,6 +225,6 @@ author_profile: false
 				</div>
 			</div><br clear="all" />
 	</div>
-	* denotes equal contribution; <span>&#8224;</span> denotes corresponding author.
+	* denotes equal contribution; <sup>&dagger;</sup> denotes corresponding author.
 </section>
 
