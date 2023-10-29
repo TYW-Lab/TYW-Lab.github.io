@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /contact/
+permalink: /joinUs/
 title: "Join Us"
 author_profile: true
 ---

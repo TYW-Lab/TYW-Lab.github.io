@@ -7,4 +7,7 @@ main:
     url: /publications/
 
   - title: "Join Us"
+    url: /joinUs/ 
+
+  - title: "Contact"
     url: /contact/ 
