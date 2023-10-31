@@ -5,14 +5,13 @@ title: "Join Us"
 author_profile: true
 ---
 
-<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please send me an email (wangty_AT_bu.edu) with your CV and publication/project list. There are domain-specific skills that influence which tracks you will specialize in:
+<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please send me an email (wangty_AT_bu.edu) with your CV and publication/project list. There are three different flavors of research in my lab, and one is expected to be exposed to at least two of the three tracks:
 
-* <u>Computational track</u>: You're keen on learning programming and machine learning to solve scientific problems. This often requires substantial coding, a basic understanding of computer hardware, crafting your own solutions, and lots of debugging. 
-* <u>Optical instrumentation track</u>: You enjoy the process of overcoming challenges in optical experiments, which typically involve meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work.
+* <u>Computational track</u>: You're keen on learning programming and machine learning to solve scientific problems, which involves in-depth understanding of the underlying scientific problem and lots of coding and debugging. 
+* <u>Optical instrumentation track</u>: You enjoy the process of overcoming challenges in optical experiments, which typically involves meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work.
 * <u>Biomedical track</u>: You're drawn to specific biological questions (e.g., in neuroscience, immunology, or genomics) that can be studied through optical imaging, with an aim to showcase your technology in real biological experiments. 
-However, no matter you are more experimental or computational oriented, learning skills from the other side will significantly accelerate your research progress and enrich your scientific career.
 
-If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <b>December 15, 2023</b>. As a Ph.D. student in these programs, your tuition is covered by BU, and you also receive a stipend for your research or teaching activities (p.20 [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf); [BME PhD handbook](https://www.bu.edu/eng/files/2023/10/BME-PhD-Handbook-Fall-2023.pdf)). There are also several graduate fellowships available for BU students to apply for ([Photonics Center](https://www.bu.edu/photonics/prt/benefits-of-a-photonics-center-phd-trainee/); p.10 of the ECE PhD handbook).
+If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <b>December 15, 2023</b>. As a Ph.D. student in these programs, your tuition is covered by BU, and you also receive a stipend for your research or teaching activities (p.20 of the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf); p.8 and p.21 of the [BME PhD handbook](https://www.bu.edu/eng/files/2023/10/BME-PhD-Handbook-Fall-2023.pdf)). Meanwhile, you are strongly encouraged to apply to internal and external graduate fellowships ([Photonics Center](https://www.bu.edu/photonics/prt/benefits-of-a-photonics-center-phd-trainee/); p.10 of the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf). Both Ph.D. programs have a rotation system for first-year Ph.D. students. During a rotation in my lab, you will be assigned a technical project that exercises both of your experimental and computational skills, and the extension of the 
 
 A unique benefit of attending Boston University is its [strategic location](/contact/), which provides you with unparalleled access to academic resources, networking opportunities, and cultural enrichment.
 
@@ -30,3 +29,7 @@ A unique benefit of attending Boston University is its [strategic location](/con
 </details>
 
 <b>For prospective postdocs</b>: I currently have one open position for postdoc. Please contact me as long as you are interested in our research topics.
+
+<b>For master and undergraudate students looking for research experience</b>:
+
+<b>For visiting scholars</b>:
