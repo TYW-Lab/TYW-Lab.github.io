@@ -5,7 +5,6 @@ title: "Join Us"
 author_profile: true
 ---
 
-
 <b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please send me an email (wangty_AT_bu.edu) with your CV and publication/project list. There are domain-specific skills that influence which tracks you will specialize in:
 
 * Computational track: You're keen on learning programming and machine learning to solve scientific problems. This often requires substantial coding, a basic understanding of computer hardware, crafting your own solutions, and lots of debugging. 
@@ -13,9 +12,11 @@ author_profile: true
 * Biomedical track: You're drawn to specific biological questions (e.g., in neuroscience, immunology, or genomics) that can be studied through optical imaging, with an aim to showcase your technology in real biological experiments. 
 However, no matter you are more experimental or computational oriented, learning skills from the other side will significantly accelerate your research progress and enrich your scientific career.
 
-If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <u>December 15, 2023</u>. As a Ph.D. student in these programs, you will be waived from tuition and receive stipend for your research and teaching activities. From our lab, you can take a pleasant walk to Boston downtown and numerous research institutes, including Harvard, MIT, and Massachusetts General Hospital, within 30 minutes, granting you unparalleled access to academic resources, networking opportunities, and culture enrichment.
+If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <u>December 15, 2023</u>. As a Ph.D. student in these programs, your tuition will be covered by the department or me, and you will receive a stipend for your research or teaching activities.  
 
-<u>A word on why pursuing a Ph.D. and what to expect</u>: A proper motivation for getting a Ph.D. is to develop one's scholarship as an independent researcher, and a time-tested way to accomplish this goal is through undertaking an original study/project, complemented by tailored guidance. You will likely to maximize your gain through this journey if some of the followings describe you:
+A unique benefit of attending Boston University is its [stragetical location](/contact/), which provides you with unparalleled access to academic resources, networking opportunities, and cultural enrichment.
+
+<u>A word on why pursuing a Ph.D. and what to expect</u>: A proper motivation for getting a Ph.D. is to develop one's scholarship as an independent researcher, and a time-tested way to accomplish this goal is through undertaking an original study/project, complemented by tailored guidance. You will likely maximize your gain through this journey if some of the followings describe you:
 
 1. Scientific motivation: You are intrigued by a certain class of scientific problems and have the desire to create your own artifact (methods, discoveries, invention, or theory). 
 1. Research instinct: You understand the open-ended nature of research, and are willing to master the art of navigating uncertainties, using literature, discussion, and independent thinking as your guide.
