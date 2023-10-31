@@ -19,7 +19,7 @@ A unique benefit of attending Boston University is its [strategic location](/con
 <details>
   <summary> <u>A word on why pursuing a Ph.D. and what to expect</u></summary>
 
-  A proper motivation for getting a Ph.D. is to develop one's scholarship as an independent researcher. A time-tested way to accomplish this goal is through conducting an original study/project, complemented by tailored guidance. You will likely maximize your gain through this journey if some of the followings describe you:
+  A proper motivation for getting a Ph.D. degree is to develop one's scholarship as an independent researcher, a quality that is required for academic positions and certain kinds of industrial positions. A time-tested way to accomplish this goal is through conducting an original study under tailored guidance. A Ph.D. thesis typically aims to address questions that can result in surprising discoveries, and its success relies on close collaboration between the student, the advisor, and other colleagues. You will likely maximize your gain through this journey if some of the followings describe you:
   <ol>
   <li>Scientific motivation: You are intrigued by a certain class of scientific problems and have the desire to create your own artifact (methods, discoveries, invention, or theory). </li>
   <li>Research instinct: You understand the open-ended nature of research, and are willing to master the art of navigating uncertainties, using literature, discussion, and independent thinking as your guide.</li>
