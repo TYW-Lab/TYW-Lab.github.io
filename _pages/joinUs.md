@@ -5,13 +5,13 @@ title: "Join Us"
 author_profile: true
 ---
 
-<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please send me an email (wangty_AT_bu.edu) with your CV and publication/project list. There are three different flavors of research in my lab, and typically a student is expected to be exposed to multiple tracks while majoring in one:
+<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please [contact me](/contact/) with your CV and publication/project list. Students in my lab are typically exposed to a variety of research areas while concentrating on one specific track:
 
 * <u>Computational track</u>: You're keen on learning programming and machine learning to solve scientific problems, which involves in-depth understanding of the underlying scientific problem and lots of coding and debugging. 
-* <u>Optical instrumentation track</u>: You enjoy the process of overcoming challenges in optical experiments, which typically involves meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work.
+* <u>Optical instrumentation track</u>: You enjoy the process of overcoming challenges in optical experiments, which typically involves meticulous handling of sensitive instruments, effective planning and time management, and a lot of trial and error to get things to work. Prior experience with either free-space optics or nanophotonics is a plus.
 * <u>Biomedical track</u>: You're drawn to specific biological questions (e.g., in neuroscience, immunology, or genomics) that can be studied through optical imaging, with an aim to showcase your technology in real biological experiments. 
 
-If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <b>December 15, 2023</b>. During application, you will need to choose labs that you are interested in performing a rotation with during your first year. For rotation in my lab, you will be assigned a technical project that exercises both of your experimental and computational skills. The rotation project has the potential to be extended to or inspire a full Ph.D. thesis. 
+If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consider applying to [ECE Ph.D. program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-electrical-engineering/) (in electrophysics track) and/or [BME Ph.D. Program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) at Boston University. Both deadlines are <b>December 15, 2023</b>. When applying, you will need to indicate labs that you are interested in doing a rotation with during your first year. If you choose to rotate in my lab, you'll work on a technical project that exercises both your experimental and computational skills. Keep in mind that this rotation project could evolve into, or inspire, a full Ph.D. thesis.
 
 As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also receive a stipend for your research or teaching activities (p.20 of the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf); p.8 and p.21 of the [BME PhD handbook](https://www.bu.edu/eng/files/2023/10/BME-PhD-Handbook-Fall-2023.pdf)). Meanwhile, you are strongly encouraged to apply to internal and external graduate fellowships ([Photonics Center](https://www.bu.edu/photonics/prt/benefits-of-a-photonics-center-phd-trainee/); p.10 of the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf). A unique benefit of attending Boston University is its [strategic location](/contact/), which provides you with unparalleled access to academic resources, networking opportunities, and cultural enrichment.
 
@@ -28,8 +28,8 @@ As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also re
   </ol>  
 </details>
 
-<b>For prospective postdocs</b>: I currently have one open position for postdoc. Please contact me as long as you are interested in our research topics.
+<b>For prospective postdocs</b>: I currently have one open position for postdoctoral researchers. Please contact me as long as you are interested in our research topics.
 
-<b>For master and undergraudate students looking for research experience</b>:
+<b>For master and undergraudate students</b>: We welcome ambitious undergraduate and master researchers who wish to take on challenges to prepare for a future research career (e.g., for a Ph.D. program). If you are interested, please [contact me](/contact/) with your CV, including your prior research experience and publication.
 
-<b>For visiting scholars</b>:
+<b>For visiting scholars</b>: We are open to hosting those who are interested in our research. To learn more about options, please [contact me](/contact/) directly.
