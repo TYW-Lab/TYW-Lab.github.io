@@ -20,12 +20,13 @@ A unique benefit of attending Boston University is its [strategic location](/con
   <summary> <u>A word on why pursuing a Ph.D. and what to expect</u></summary>
 
   A proper motivation for getting a Ph.D. is to develop one's scholarship as an independent researcher. A time-tested way to accomplish this goal is through conducting an original study/project, complemented by tailored guidance. You will likely maximize your gain through this journey if some of the followings describe you:
-
-  * Scientific motivation: You are intrigued by a certain class of scientific problems and have the desire to create your own artifact (methods, discoveries, invention, or theory). 
-  * Research instinct: You understand the open-ended nature of research, and are willing to master the art of navigating uncertainties, using literature, discussion, and independent thinking as your guide.
-  * Input skills: You enjoy keeping up with the latest research trends in your field by consistently browsing papers and attending relevant talks.
-  * Output skills: You wish to develop writing and presentation skills to effectively communicate your findings and ideas to the scientific community and the broader audience. 
-  * Teamwork skills: You thrive in a collaborative environment, valuing knowledge-sharing, learning from feedback (from peers, superiors, and subordinates alike), and close collaborations with colleagues to achieve objectives that might be challenging to tackle solo.
+  <ol>
+  <li>Scientific motivation: You are intrigued by a certain class of scientific problems and have the desire to create your own artifact (methods, discoveries, invention, or theory). </li>
+  <li>Research instinct: You understand the open-ended nature of research, and are willing to master the art of navigating uncertainties, using literature, discussion, and independent thinking as your guide.</li>
+  <li>Input skills: You enjoy keeping up with the latest research trends in your field by consistently browsing papers and attending relevant talks.</li>
+  <li>Output skills: You wish to develop writing and presentation skills to effectively communicate your findings and ideas to the scientific community and the broader audience. </li>
+  <li>Teamwork skills: You thrive in a collaborative environment, valuing knowledge-sharing, learning from feedback (from peers, superiors, and subordinates alike), and close collaborations with colleagues to achieve objectives that might be challenging to tackle solo.</li>
+  </ol>  
 </details>
 
 <b>For prospective postdocs</b>: I currently have one open position for postdoc. Please contact me as long as you are interested in our research topics.
