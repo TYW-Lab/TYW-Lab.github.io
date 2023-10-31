@@ -11,6 +11,18 @@ author_profile: false
 <section id="main" >
 	<div class="inner">
 		<h2>2023</h2>
+		    <div style="font-size:12pt;line-height:1.5;">
+				<div class="row">
+					<div class="columnfig">
+						<img src="../images/publications/2023_Laydevant.png" width="105%"/>
+					</div>
+					<div class="columntext">
+						J. Laydevant, L.G. Wright, T. Wang, P.L. McMahon<sup>&dagger;</sup><br />
+						<span style="font-weight:bold;">The hardware is the software</span><br/>
+						<a href="https://doi.org/10.48550/arXiv.2310.18335" style="font-weight:bold;"><i>arXiv:2310.18335</i> (2023)</a>
+					</div>
+				</div>
+			</div><br clear="all" />
 			<div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">

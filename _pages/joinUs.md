@@ -28,8 +28,8 @@ As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also re
   </ol>  
 </details>
 
-<b>For prospective postdocs</b>: I currently have one open position for postdoctoral researchers. Please contact me as long as you are interested in our research topics.
+<b>For prospective postdocs</b>: I currently have one open position for postdoctoral researchers. Please [contact me](/contact/).
 
-<b>For master and undergraudate students</b>: We welcome ambitious undergraduate and master researchers who wish to take on challenges to prepare for a future research career (e.g., for a Ph.D. program). If you are interested, please [contact me](/contact/) with your CV, including your prior research experience and publication.
+<b>For master and undergraudate students</b>: We welcome motivated master students and ambitious undergraduates seeking research experience to better prepare for a future research career (e.g., in a Ph.D. program). Please [contact me](/contact/) with your CV, including your prior research experience and publication.
 
 <b>For visiting scholars</b>: We are open to hosting those who are interested in our research. To learn more about options, please [contact me](/contact/) directly.
