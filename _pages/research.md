@@ -48,7 +48,7 @@ author_profile: false
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Despite the advancements in artificial intelligence, the computing principle underlying biological neural networks, as their source of inspiration, is still not understood. Imaging neuronal activities in biological tissues is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. Our obsesstion with optical information may present the key to solving this problem by allowing us to maximally extract information from back-scattered photons either to learn about the tissue structure or to compensate for the scattering.
+            Despite the advancements in artificial intelligence, the work principle of its source of inspiration -- biological neural network -- is still not elucidated. While optical imaging provides a high-throughput method to measure biological neuronal activities, imaging through biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. Our obsesstion with optical information may present the key to solving this problem by allowing us to maximally extract information from back-scattered photons either to learn about the tissue structure or to compensate for the scattering.
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="105%"/>
