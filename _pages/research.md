@@ -41,7 +41,7 @@ Further reading:
 
 Further reading:
 <ul>
-    <li>Sterling, P. and S. Laughlin. Principles of Neural Design (MIT Press, 2015).</li>
+    <li>Sterling, P. and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
     <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
 </ul>
 
@@ -86,5 +86,5 @@ Further reading:
 
 Further reading:
 <ul>
-  <li>H. Wang <i>et al.</i> <a href="https://doi.org/10.1038/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence.</a> <i>Nature</i> <b>620</b>, 47–60 (2023).</li>
+  <li>H. Wang, T. Fu, Y. Du, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence.</a> <i>Nature</i> <b>620</b>, 47–60 (2023).</li>
 </ul>
