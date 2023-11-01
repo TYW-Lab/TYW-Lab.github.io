@@ -10,7 +10,7 @@ author_profile: false
     <div class="row">
         <div class="columntext">
             The recent advancement in modern artificial intelligence (AI) has led to a resurgence of interest in developing photonic neural neteworks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large models, bring the best out of the optical processors by fully leveraging the physical properties of light to facilitate efficient data transmission and reuse. While the benefits of large-scale photonic neural networks is warranted by physics, it is still an open challenge to identify the most promising hardware platform that provides sufficient scaling capacity while being compact. We are interested in exploring the engineering platform of free-space and integrated photonics for realizing this vision. <br/>
-            In addition, photonic neural networks represent a class of analog computing systems approaching the limits allowed by physics, by being able to use single photons for each operation. We are interested in using photonic neural networks as a platform to study the novel computing and learning algorithms in this analog noisy computing regime.
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, photonic neural networks represent a class of analog computing systems approaching the limits allowed by physics, by being able to use single photons for each operation. We are interested in using photonic neural networks as a platform to study the novel computing and learning algorithms in this analog noisy computing regime.
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
