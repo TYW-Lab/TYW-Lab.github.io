@@ -9,8 +9,8 @@ author_profile: false
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            The recent advancement in modern artificial intelligence (AI) has led to a resurgence of interest in developing photonic neural neteworks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large models, bring the best out of the optical processors by fully leveraging the physical properties of light to facilitate efficient data transmission and reuse. While the benefits of large-scale photonic neural networks is warranted by physics, it is still an open challenge to identify the most promising hardware platform that provides sufficient scaling capacity while being compact. We are interested in exploring the engineering platform of free-space and integrated photonics for realizing this vision. <br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, photonic neural networks represent a class of analog computing systems approaching the limits allowed by physics, by being able to use single photons for each operation. We are interested in using photonic neural networks as a platform to study the novel computing and learning algorithms in this analog noisy computing regime.
+            The recent advancement in modern artificial intelligence (AI) has led to a resurgence of interest in developing photonic neural neteworks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large models, bring the best out of the optical processors by fully leveraging the physical properties of light to facilitate efficient data transmission and reuse. While the benefits of large-scale photonic neural networks is warranted by physics, it is still an open challenge to identify the most promising hardware platform that provides sufficient scaling capacity while being compact. To realize this vision, we are interested in exploring the hardware platform and system architecture that can potentially combine the strength of free-space and integrated photonics. <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, by being able to use single photons for each operation. As we pursue faster and more efficient computing hardware, the particle nature of our physical hardware manifests itself and stochasticity is an intrinsic property. In this analog noisy computing regime, we are interested in using photonic neural networks as a testbed to study novel computing and learning algorithms and phenomena.
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
@@ -20,8 +20,10 @@ author_profile: false
 
 Further reading:
 <ul>
-  <li>G. Wetzstein, A. Ozcan, S. Gigan. <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
+  <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
   <li>P.L. McMahon. <a href="https://doi.org/10.1038/s42254-023-00645-5">The physics of optical computing.</a> <i>Nature Review Physics</i> (2023).</li>
+  <li>T. Wang <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
+  <li>Wikipedia <a href="https://en.wikipedia.org/wiki/Limits_of_computation#:~:text=Seth%20Lloyd%20calculated%20the%20computational,it%20could%20compute%20at%20a">Limits of Computation</a></li>
 </ul>
 
 ## <span style="color: #cc0000;">Computational Sensors based on Neuromorphism</span> ##
