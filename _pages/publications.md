@@ -14,7 +14,7 @@ author_profile: false
 		    <div style="font-size:12pt;line-height:1.5;">
 				<div class="row">
 					<div class="columnfig">
-						<img src="../images/publications/2023_Laydevant.png" width="105%"/>
+						<img src="../images/publications/2023_Laydevant.png" width="100%"/>
 					</div>
 					<div class="columntext">
 						J. Laydevant, L.G. Wright, T. Wang, P.L. McMahon<br />

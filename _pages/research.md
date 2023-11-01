@@ -6,7 +6,16 @@ author_profile: false
 
 ## <span style="color: #cc0000;">Neuromorphic Computing with Light</span> ##
 
-
+<div style="font-size:12pt;line-height:1.5;">
+    <div class="row">
+        <div class="columntext">
+            Photonic computing has 
+        </div>
+        <div class="columnfig">
+            <img src="../images/publications/2023_Laydevant.png" width="105%"/>
+        </div>
+    </div>
+</div><br clear="all" />
 
 ## <span style="color: #cc0000;">Computational sensing with Light</span> ##
 
@@ -39,7 +48,7 @@ author_profile: false
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Despite the advancements in artificial intelligence, 
+            Despite the advancements in artificial intelligence, the computing principle underlying biological neural networks, as their source of inspiration, is still not understood. Imaging neuronal activities in biological tissues is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. Our obsesstion with optical information may present the key to solving this problem by allowing us to maximally extract information from back-scattered photons either to learn about the tissue structure or to compensate for the scattering.
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="105%"/>
@@ -48,3 +57,14 @@ author_profile: false
 </div><br clear="all" />
 
 ## <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> ##
+
+<div style="font-size:12pt;line-height:1.5;">
+    <div class="row">
+        <div class="columntext">
+            The recent explosion of artificial intelligence will have long-lasting impacts on how we conduct scientific research, from how we perform experiments to how we publish our results. In particular, we are interested in developing AI tools for photonic research, and understand its influence on the future 
+        </div>
+        <div class="columnfig">
+            <img src="../images/publications/2023_Laydevant.png" width="105%"/>
+        </div>
+    </div>
+</div><br clear="all" />
