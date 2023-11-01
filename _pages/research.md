@@ -4,9 +4,9 @@ title: "Research Summary"
 author_profile: false
 ---
 
-## Neuromorphic Computing with Light ##
+## <span style="color: #cc0000;">Neuromorphic Computing with Light</span> ##
 
-## Imaging and Sensing using Classical and Quantum Light ##
+## <span style="color: #cc0000;">Imaging and Sensing using Classical and Quantum Light</span> ##
 
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
@@ -21,6 +21,6 @@ author_profile: false
     </div>
 </div><br clear="all" />
 
-## Understanding Biological Neural Computation with Light ##
+## <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> ##
 
-## Artificial Intelligence for Photonic Research ##
+## <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> ##
