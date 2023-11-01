@@ -15,6 +15,6 @@ Phone:
 
 <b>Mailing Address</b>
 
-Paper mails: 8 St. Mary’s Street Boston, MA 02215, Room 725
+<u>Paper mails</u>: 8 St. Mary’s Street Boston, MA 02215, Room 725
 
-Packages: 22 Babbitt Street Boston, MA 02215, Room 103B (Door code applies to this room, and please contact me for it.)
+<u>Packages</u>: 22 Babbitt Street Boston, MA 02215, Room 103B (Door code applies to this room, and please contact me for it.)
