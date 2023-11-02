@@ -6,11 +6,10 @@ author_profile: false
 
 ## <span style="color: #cc0000;">Neuromorphic Computing with Light</span> ##
 
-<div style="font-size:12pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            The recent advancement in modern artificial intelligence (AI) has led to a resurgence of interest in developing photonic neural neteworks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large models, bring the best out of the optical processors by fully leveraging the physical properties of light to facilitate efficient data transmission and reuse. While the benefits is warranted by physics, it is still an open challenge to identify the most promising hardware platform to provide sufficient scaling while keeping the system compact. <br/>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, by being able to use single photons for each operation. As we push computation to a smaller space, time, or energy scale, the particle nature of devices manifests itself and we have to take the resultant stocahsticity into account when designing hardware and software. This is where neuromorphism helps. We are interested in using photonic neural networks as a testbed to study novel computing phenomena in this analog noisy regime. 
+            Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by emphasizing the strength of optics for data transmission and reuse. Most significantly, they represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, by using even single photons for each operation. We are interested in using photonic neural networks as a testbed to study novel computing phenomena in this analog noisy regime. 
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
@@ -29,7 +28,7 @@ Further reading:
 
 ## <span style="color: #cc0000;">Computational Sensors based on Neuromorphism</span> ##
 
-<div style="font-size:12pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
             Another opportunity offered by photonic neuromorphic computing is its potential for making smarter and more effcient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture salient features with a high precision and speed beyond traditional hardware. This performance is achieved by breaking the wall between traditional imaging, sensing, and computing modules and strategically offloading some computation to optics and sensors. This holistic approach allows us to train the entire machine-vision system in an end-to-end fashion for specific machine-vision tasks, allowing a synergy otherwise unattainable by optimizing individual parts for different objectives. Getting results without bookkeeping all the intermediate data is a neuromorphic design principle, which is ubiquitously adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
@@ -48,7 +47,7 @@ Further reading:
 
 ## <span style="color: #cc0000;"> Imaging and Sensing with Quantum Light </span> ##
 
-<div style="font-size:12pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
             Quantum and other non-classical states of light are enticing for imaging and sensing applications, as each photon in such states can potentially carry more information than photons in classical light states. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, which provides an extra degree of freedom to achieve various forms of quantum imaging or sensing advantages beyong classical light, such as enhanced resolution or phase measurement precision. However, many questions remain open: Can we engineer a state of light that can lead to scalable quantum sensing advantage? How about in presence of loss and background noise? Can we engineer a bright enough light source to achieve unconditional quantum sensing advantages? In the context of optical microscopy and image sensing, we are interested in developing systems and computational methods for achieving practical quantum sensing advantages with light.
@@ -61,7 +60,7 @@ Further reading:
 
 ## <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> ##
 
-<div style="font-size:12pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
             Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in two folds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
@@ -77,7 +76,7 @@ Further reading:
 
 ## <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> ##
 
-<div style="font-size:12pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
             The recent advancement in general-purpose AI will generate long-lasting impacts on how we conduct scientific research, from how experiments are performed to how the results are circulated. In this regard, we are keen on exploring the ways state-of-the-art AI models and tools can be leveraged for improving photonic designs, creating new devices, facilitating scientific discoveries, and pointing out new research directions.  
