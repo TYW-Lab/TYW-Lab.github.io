@@ -17,8 +17,8 @@ author_profile: false
         </div>
         <div class="columnfig">
             <img src="../images/research/onns.png" width="100%"/>
-            <p> 
-                Top: a free-space photonic-neural-network setup capable of performing large-scale matrix-vector mulitplication (&#x7e700&#215700)</br>
+            <p style="font-size:10pt;"> 
+                Top: a free-space photonic-neural-network setup capable of performing large-scale matrix-vector mulitplication (&#x7e;700&#215;700)<br>
                 Bottom: a generic photonic chip as an integrated platform for optical information processing; image from imec.
             </p>
         </div>
