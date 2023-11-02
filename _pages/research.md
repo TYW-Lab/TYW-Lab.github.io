@@ -64,7 +64,11 @@ Further reading:
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in While optical imaging provides a high-throughput and minimally invasive means to measure the activities of biological neurons across a large population, imaging through biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. To image substantially deeper into the tissue, we are interested in employing a mixture of physics and AI based methods that will allow us to de-scatter the photons efficiently in a short peirod of time.
+            Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in two folds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
+            <ol> 
+                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring ways to instantly de-scatter light using the mixture of physics and AI methods that can most efficiently extract tissue structural information from scattered photons. </li>
+                <li> <u>Understanding neuronal activity data</u>: We are interested in using </li>
+            </ol>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
         </div>
