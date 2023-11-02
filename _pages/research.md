@@ -18,7 +18,7 @@ author_profile: false
         <div class="columnfig">
             <img src="../images/research/onns.png" width="100%"/>
             <p style="font-size:10pt;"> 
-                Top: a free-space photonic-neural-network setup capable of performing large-scale matrix-vector mulitplication (&#x7e;700&#215;700)<br>
+                Top: a free-space photonic-neural-network apparatus for large-scale matrix-vector mulitplication (&#x7e;700&#215;700 in matrix size)<br>
                 Bottom: a generic photonic chip as an integrated platform for optical information processing; image from imec.
             </p>
         </div>
@@ -41,6 +41,10 @@ author_profile: false
         <div class="columnfig">
             <img src="../images/research/onn_sensor.png" width="120%"/>
         </div>
+        <p style="font-size:10pt;"> 
+            Top: The principle of image sensing as compared to traditional computer vision. <br>
+            Bottom: Envision applications of ultra-fast image sensing for high-throughput biomedical assays.
+        </p>
     </div>
     Further reading:
     <ul>
@@ -93,7 +97,7 @@ author_profile: false
 </div><br clear="all" />
 
 
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> </h2>
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for Physical Sciences</span> </h2>
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
