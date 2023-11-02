@@ -6,7 +6,7 @@ author_profile: false
 
 ## <span style="color: #cc0000;">Neuromorphic Computing with Light</span> ##
 
-<div style="font-size:14pt;line-height:1.5;">
+<div style="font-size:14pt;line-height:1.5;margin-left: -20px;">
     <div class="row">
         <div class="columntext">
             Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strength in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
@@ -70,6 +70,7 @@ Further reading:
                 <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring ways to instantly de-scatter light through a mixture of physics and AI methods. Combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging.</li>
                 <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording dataset contains sufficient information for modeling circuit-level functions, we will explore state-of-the-art AI models for neuronal data analysis.</li>
             </ol>
+        </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
         </div>
