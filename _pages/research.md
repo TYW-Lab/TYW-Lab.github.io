@@ -50,10 +50,10 @@ Further reading:
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Compared to classical light, quantum and other engineered states of light are enticing for imaging and sensing purposes because, in these cases, each photon is no longer independent, and therefore has the potential to carry more information than its classical counterpart. This advantage can translate to more sensitive phase measurement and higher imaging resolution; however, many open questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantage? Can we engineer a bright enough light source to achieve unconditional quantum sensing advantages? Can it also be robust to loss and background noise? In the context of optical microscopy and image sensing, we are interested in developing systems and computational methods for achieving practical quantum sensing advantages with light.
+            Quantum and other non-classical states of light are enticing for imaging and sensing applications, as each photon in such states can potentially carry more information than photons in classical light states. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, which provides an extra degree of freedom to achieve various forms of quantum imaging or sensing advantages beyong classical light, such as enhanced resolution or phase measurement precision. However, many questions remain open: Can we engineer a state of light that can lead to scalable quantum sensing advantage? How about in presence of loss and background noise? Can we engineer a bright enough light source to achieve unconditional quantum sensing advantages? In the context of optical microscopy and image sensing, we are interested in developing systems and computational methods for achieving practical quantum sensing advantages with light.
         </div>
         <div class="columnfig">
-            <img src="../images/publications/2023_Laydevant.png" width="100%"/>
+            <img src="../images/research/quantum_sensing.png" width="100%"/>
         </div>
     </div>
 </div><br clear="all" />
@@ -63,8 +63,7 @@ Further reading:
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. While optical imaging provides a high-throughput and minimally invasive means to measure biological neuronal activities, imaging through biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. Our obsesstion with optical information may present the key to solving this problem by allowing us to maximally extract information to reconstruct tissue structure based on back-scattered photons. 
-        </div>
+            Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in While optical imaging provides a high-throughput and minimally invasive means to measure the activities of biological neurons across a large population, imaging through biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. To image substantially deeper into the tissue, we are interested in employing a mixture of physics and AI based methods that will allow us to de-scatter the photons efficiently in a short peirod of time.
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
         </div>
@@ -76,7 +75,7 @@ Further reading:
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            The recent explosion of artificial intelligence will have long-lasting impacts on how we conduct scientific research, from how we perform experiments to how we publish our results. In particular, we are interested in developing AI tools for photonic research, and understand its influence on the future 
+            The recent explosion of artificial intelligence will have long-lasting impacts on how we conduct scientific research, from how experiments are performed to how the results are circulated. In particular, we are interested in developing AI tools for photonic research, and understand its influence on the future 
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
