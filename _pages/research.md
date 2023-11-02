@@ -9,14 +9,18 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
-            Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strength in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
+            Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strengths in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
             <ol> 
                 <li> <u>Hardware</u>: We are interested in exploring a hardware solution that enables photonic neural networks to be both scalable and compact. </li>
                 <li> <u>Software</u>: We are interested in using photonic neural networks as a testbed to study novel computing phenomena in the analog noisy regime. </li>
             </ol>
         </div>
         <div class="columnfig">
-            <img src="../images/publications/2023_Laydevant.png" width="100%"/>
+            <img src="../images/research/onns.png" width="100%"/>
+            <p> 
+                Top: a free-space photonic-neural-network setup capable of performing large-scale matrix-vector mulitplication (&#x7e700&#215700)</br>
+                Bottom: a generic photonic chip as an integrated platform for optical information processing; image from imec.
+            </p>
         </div>
     </div>
     Further reading:
@@ -32,10 +36,10 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
-            Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture salient features with a high precision and speed beyond traditional hardware. This performance is achieved by taking a holistic towards system design: By breaking the wall between traditional imaging, sensing, and computing modules and strategically offloading some computation to optics and sensors, we can train the entire systems in an end-to-end fashion for a specific machine-vision task. In general, getting results without bookkeeping all the intermediate data is a neuromorphic design principle, which is ubiquitously adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
+            Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features with a high precision and speed beyond traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking the wall between traditional imaging, sensing, and computing modules and strategically offloading some computation to optics and sensors, we can train the entire systems in an end-to-end fashion for a specific machine-vision task. In general, getting results without bookkeeping all the intermediate data is a neuromorphic design principle, which is ubiquitously adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
         </div>
         <div class="columnfig">
-            <img src="../images/research/onn_sensor.png" width="100%"/>
+            <img src="../images/research/onn_sensor.png" width="120%"/>
         </div>
     </div>
     Further reading:
@@ -51,12 +55,18 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
-            Quantum and other non-classical states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision or image resolution. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages in real-world applications.
+            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision or image resolution. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages in real-world applications.
         </div>
         <div class="columnfig">
-            <img src="../images/research/quantum_sensing.png" width="110%"/>
+            <img src="../images/research/quantum_sensing.png" width="120%"/>
         </div>
     </div>
+    Further reading:
+    <ul>
+        <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
+        <li>P. Sterling and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
+        <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
+    </ul>
 </div><br clear="all" />
 
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> </h2>
@@ -74,6 +84,12 @@ author_profile: false
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
         </div>
     </div>
+    Further reading:
+    <ul>
+        <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
+        <li>P. Sterling and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
+        <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
+    </ul>
 </div><br clear="all" />
 
 
@@ -85,13 +101,13 @@ author_profile: false
             Recent advances in AI, including reinforcement learning, multimodal, few-shot learning, and large language models, will generate long-lasting impacts on how we conduct scientific research, from how experiments are desinged and performed to how the results are analyzed and circulated. In this regard, we are keen on exploring ways state-of-the-art AI models and tools can be leveraged for making experimental designs through reinforcement learning, improving instrumentation through adaptive training, and creating novel devices through inverse design.  
         </div>
         <div class="columnfig">
-            <img src="../images/research/AI_4_science.png" width="100%"/>
+            <img src="../images/research/AI_4_science.png" width="120%"/>
         </div>
     </div>
     Further reading:
     <ul>
         <li>H. Wang, T. Fu, Y. Du, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence.</a> <i>Nature</i> <b>620</b>, 47–60 (2023).</li>
-        <li>L.G. Wright*, T. Onodera, M.M. Stein, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-021-04223-6">Deep physical neural networks trained with backpropagation.</a> <i>Nature</i> <b>601</b>, 549-555 (2022).</li>
+        <li>L.G. Wright*, T. Onodera*, M.M. Stein, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-021-04223-6">Deep physical neural networks trained with backpropagation.</a> <i>Nature</i> <b>601</b>, 549-555 (2022).</li>
     </ul>
 </div><br clear="all" />
 
