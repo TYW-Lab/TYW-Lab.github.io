@@ -4,9 +4,9 @@ title: ""
 author_profile: false
 ---
 
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -20px;">> <span style="color: #cc0000;">Neuromorphic Computing with Light</span> </h2>
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Neuromorphic Computing with Light</span> </h2>
 
-<div style="font-size:14pt;line-height:1.5;margin-left: -20px;">
+<div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
             Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strength in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
