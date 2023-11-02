@@ -397,6 +397,20 @@
     flex-grow: 1; /* Allows the text column to take up the remaining space in the row */
 }
 
+.columnfighalf {
+  width: 45%;
+  flex-basis: 45%; /* Sets the default width of the image column */
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.columntexthalf {
+  width: 55%;
+  flex-basis: 55%; /* Sets the default width of the image column */
+  flex-grow: 1; /* Allows the text column to take up the remaining space in the row */
+}
+
 
 /*
    Related

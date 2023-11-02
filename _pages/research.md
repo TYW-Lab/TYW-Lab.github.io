@@ -17,7 +17,7 @@ author_profile: false
         </div>
         <div class="columnfig">
             <img src="../images/research/onns.png" width="100%"/>
-            <p style="font-size:10pt;"> 
+            <p style="font-size:10pt;padding-top: 10px;"> 
                 Top: a free-space photonic-neural-network apparatus for large-scale matrix-vector mulitplication (&#x7e;700&#215;700 in matrix size)<br>
                 Bottom: a generic photonic chip as an integrated platform for optical information processing; image from imec.
             </p>
@@ -35,12 +35,12 @@ author_profile: false
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
-        <div class="columntext" width="90%">
+        <div class="columntexthalf">
             Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features with a high precision and speed beyond traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking the wall between traditional imaging, sensing, and computing modules and strategically offloading some computation to optics and sensors, we can train the entire systems in an end-to-end fashion for a specific machine-vision task. In general, getting results without bookkeeping all the intermediate data is a neuromorphic design principle, which is ubiquitously adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
         </div>
-        <div class="columnfig">
+        <div class="columnfighalf">
             <img src="../images/research/onn_sensor.png" width="120%"/>
-            <p style="font-size:10pt;"> 
+            <p style="font-size:10pt;padding-top: 10px;"> 
                 Top: The principle of image sensing as compared to traditional computer vision. <br>
                 Bottom: Envision applications of ultra-fast image sensing for high-throughput biomedical assays.
             </p>
@@ -80,7 +80,7 @@ author_profile: false
         <div class="columntext">
             Despite the advances in AI, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in twofolds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
             <ol> 
-                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring new ways for instant light de-scattering through a mixture of physics and AI methods. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
+                <li> <u>Seeing through scattered light</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring new ways for instant light de-scattering through a mixture of physics and AI methods. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
                 <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording datasets contains the information for decoding brain functions on the circuit level, we will explore state-of-the-art AI models for neuronal data analysis, with a focus on the predictive power of the model.</li>
             </ol>
         </div>
