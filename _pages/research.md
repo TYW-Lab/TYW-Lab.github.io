@@ -1,10 +1,10 @@
 ---
 permalink: /research/
-title: "Research Summary"
+title: ""
 author_profile: false
 ---
 
-## <span style="color: #cc0000;">Neuromorphic Computing with Light</span> ##
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -20px;">> <span style="color: #cc0000;">Neuromorphic Computing with Light</span> </h2>
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -20px;">
     <div class="row">
