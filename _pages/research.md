@@ -9,7 +9,11 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by emphasizing the strength of optics for data transmission and reuse. Most significantly, they represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, by using even single photons for each operation. We are interested in using photonic neural networks as a testbed to study novel computing phenomena in this analog noisy regime. 
+            Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for more efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strength in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
+            <ol> 
+                <li> <u>Hardware</u>: We wish to explore a hardware solution that enables photonic neural networks to be both scalable and compact. </li>
+                <li> <u>Software</u>: We are interested in using photonic neural networks as a testbed to study novel computing phenomena in this analog noisy regime. </li>
+            </ol>
         </div>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
@@ -21,7 +25,6 @@ Further reading:
 <ul>
   <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
   <li>P.L. McMahon. <a href="https://doi.org/10.1038/s42254-023-00645-5">The physics of optical computing.</a> <i>Nature Review Physics</i> (2023).</li>
-  <li>D.A.B. Miller.  <a href="https://doi.org/10.1038/s42254-023-00645-5">Why optics needs thickness.</a> <i>Science</i> <b>379</b>, 41–45 (2023).</li>
   <li>T. Wang, <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
   <li>S. Lloyd. <a href="https://doi.org/10.1038/35023282">Ultimate physical limits to computation.</a> <i>Nature</i> <b>406</b>, 1047–1054 (2000) | Wikipedia <a href="https://en.wikipedia.org/wiki/Limits_of_computation#:~:text=Seth%20Lloyd%20calculated%20the%20computational,it%20could%20compute%20at%20a">Limits of Computation</a></li>
 </ul>
