@@ -66,8 +66,8 @@ Further reading:
         <div class="columntext">
             Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in two folds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
             <ol> 
-                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring ways to instantly de-scatter light using the mixture of physics and AI methods that can most efficiently extract tissue structural information from scattered photons. </li>
-                <li> <u>Understanding neuronal activity data</u>: We are interested in using </li>
+                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring ways to instantly de-scatter light through a mixture of physics and AI methods. Combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging.</li>
+                <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording dataset contains sufficient information for modeling circuit-level functions, we will explore state-of-the-art AI models for neuronal data analysis.</li>
             </ol>
         <div class="columnfig">
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
@@ -80,10 +80,10 @@ Further reading:
 <div style="font-size:12pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            The recent explosion of artificial intelligence will have long-lasting impacts on how we conduct scientific research, from how experiments are performed to how the results are circulated. In particular, we are interested in developing AI tools for photonic research, and understand its influence on the future 
+            The recent advancement in general-purpose AI will generate long-lasting impacts on how we conduct scientific research, from how experiments are performed to how the results are circulated. In this regard, we are keen on exploring the ways state-of-the-art AI models and tools can be leveraged for improving photonic designs, creating new devices, facilitating scientific discoveries, and pointing out new research directions.  
         </div>
         <div class="columnfig">
-            <img src="../images/publications/2023_Laydevant.png" width="100%"/>
+            <img src="../images/research/AI_4_science.png" width="100%"/>
         </div>
     </div>
 </div><br clear="all" />
