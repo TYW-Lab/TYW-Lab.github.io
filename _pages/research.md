@@ -19,15 +19,14 @@ author_profile: false
             <img src="../images/publications/2023_Laydevant.png" width="100%"/>
         </div>
     </div>
+    Further reading:
+    <ul>
+    <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
+    <li>P.L. McMahon. <a href="https://doi.org/10.1038/s42254-023-00645-5">The physics of optical computing.</a> <i>Nature Review Physics</i> (2023).</li>
+    <li>T. Wang, <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
+    <li>S. Lloyd. <a href="https://doi.org/10.1038/35023282">Ultimate physical limits to computation.</a> <i>Nature</i> <b>406</b>, 1047–1054 (2000) | Wikipedia <a href="https://en.wikipedia.org/wiki/Limits_of_computation#:~:text=Seth%20Lloyd%20calculated%20the%20computational,it%20could%20compute%20at%20a">Limits of Computation</a></li>
+    </ul>
 </div><br clear="all" />
-
-Further reading:
-<ul>
-  <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
-  <li>P.L. McMahon. <a href="https://doi.org/10.1038/s42254-023-00645-5">The physics of optical computing.</a> <i>Nature Review Physics</i> (2023).</li>
-  <li>T. Wang, <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
-  <li>S. Lloyd. <a href="https://doi.org/10.1038/35023282">Ultimate physical limits to computation.</a> <i>Nature</i> <b>406</b>, 1047–1054 (2000) | Wikipedia <a href="https://en.wikipedia.org/wiki/Limits_of_computation#:~:text=Seth%20Lloyd%20calculated%20the%20computational,it%20could%20compute%20at%20a">Limits of Computation</a></li>
-</ul>
 
 ## <span style="color: #cc0000;">Computational Sensors based on Neuromorphism</span> ##
 
@@ -77,12 +76,12 @@ Further reading:
     </div>
 </div><br clear="all" />
 
-## <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> ##
+## <span style="color: #cc0000;">Artificial Intelligence for PHotonic Research</span> ##
 
 <div style="font-size:14pt;line-height:1.5;">
     <div class="row">
         <div class="columntext">
-            The recent advancement in general-purpose AI will generate long-lasting impacts on how we conduct scientific research, from how experiments are performed to how the results are circulated. In this regard, we are keen on exploring the ways state-of-the-art AI models and tools can be leveraged for improving photonic designs, creating new devices, facilitating scientific discoveries, and pointing out new research directions.  
+            Recent advances in AI, including reinforcement learning, multimodal, few-shot learning, and large language models, will generate long-lasting impacts on how we conduct scientific research, from how experiments are desinged and performed to how the results are analyzed and circulated. In this regard, we are keen on exploring ways state-of-the-art AI models and tools can be leveraged for improving photonic designs, creating novel devices, and facilitating scientific discoveries.  
         </div>
         <div class="columnfig">
             <img src="../images/research/AI_4_science.png" width="100%"/>
