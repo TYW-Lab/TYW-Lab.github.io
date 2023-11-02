@@ -51,10 +51,10 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
-            Quantum and other non-classical states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision or image resolution. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantage, in presence of loss and background noise? How can we utilize quantum resources for an advantage in more sophisticated measurement such as a machine learning task? In the context of optical microscopy and image sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages in real-world applications.
+            Quantum and other non-classical states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision or image resolution. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages in real-world applications.
         </div>
         <div class="columnfig">
-            <img src="../images/research/quantum_sensing.png" width="100%"/>
+            <img src="../images/research/quantum_sensing.png" width="110%"/>
         </div>
     </div>
 </div><br clear="all" />
@@ -64,10 +64,10 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
-            Despite the advancements in artificial intelligence, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in two folds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
+            Despite the advances in AI, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in twofolds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
             <ol> 
-                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring ways to instantly de-scatter light through a mixture of physics and AI methods. Combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging.</li>
-                <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording dataset contains sufficient information for modeling circuit-level functions, we will explore state-of-the-art AI models for neuronal data analysis.</li>
+                <li> <u>Seeing through light scattering</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring new ways for instant light de-scattering through a mixture of physics and AI methods. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
+                <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording datasets contains the information for decoding brain functions on the circuit level, we will explore state-of-the-art AI models for neuronal data analysis, with a focus on the predictive power of the model.</li>
             </ol>
         </div>
         <div class="columnfig">
@@ -77,7 +77,7 @@ author_profile: false
 </div><br clear="all" />
 
 
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for PHotonic Research</span> </h2>
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for Photonic Research</span> </h2>
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
