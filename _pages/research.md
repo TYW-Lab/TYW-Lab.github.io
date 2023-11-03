@@ -6,7 +6,7 @@ author_profile: false
 
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Neuromorphic Computing with Light</span> </h2>
 
-<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
+<div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
         <div class="columntext">
             Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strengths in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
@@ -33,9 +33,9 @@ author_profile: false
 
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Computational Sensors based on Neuromorphism</span> </h2>
 
-<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
+<div style="font-size:14pt;line-height:1.5;margin-left: -50px">
     <div class="row">
-        <div class="columntexthalf">
+        <div class="columntexthalf;justify">
             Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features at a precision and speed not possible with traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking down the walls between imaging, sensing, and computing modules in a conventional system and strategically offloading some computation to optics and sensors, we can train the entire system in an end-to-end fashion for a specific machine-vision task. In general, obtaining results without recording all intermediate data is a neuromorphic design principle, commonly adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
         </div>
         <div class="columnfighalf">
