@@ -83,7 +83,7 @@ author_profile: false
             </ol>
         </div>
         <div class="columnfighalf">
-            <img src="../images/research/neurual_imaging.png" width="100%"/>
+            <img src="../images/research/neural_imaging.png" width="100%"/>
             <p style="font-size:10pt;padding-top: 10px;"> 
                 Top: The concept of smart miscroscopy that tailors to sample condition instantly in an autonomous fashion. <br>
                 Bottom: The open question of predicting neuronal activites based on sensory inputs and behavior outputs; image from https://doi.org/10.48550/arXiv.2305.19654.
