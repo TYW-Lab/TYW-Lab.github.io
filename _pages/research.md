@@ -36,7 +36,8 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px">
     <div class="row">
         <div class="columntexthalf">
-            Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features at a precision and speed not possible with traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking down the walls between imaging, sensing, and computing modules in a conventional system and strategically offloading some computation to optics and sensors, we can train the entire system in an end-to-end fashion for a specific machine-vision task. In general, obtaining results without recording all intermediate data is a neuromorphic design principle, commonly adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
+            Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features at a precision and speed not possible with traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking down the walls between imaging, sensing, and computing modules in a conventional system and strategically offloading some computation to optics and sensors, we can train the entire system in an end-to-end fashion for a specific machine-vision task. <br>
+            In general, obtaining results without recording all intermediate data is a neuromorphic design principle, commonly adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
         </div>
         <div class="columnfighalf">
             <img src="../images/research/onn_sensor.png" width="120%"/>
@@ -59,7 +60,8 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
     <div class="row">
         <div class="columntexthalf">
-            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision, image resolution, or multiphoton excitation. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages for real-world applications.
+            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision, image resolution, or multiphoton excitation. However, many questions still remain: <br>
+            Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages for real-world applications.
         </div>
         <div class="columnfighalf">
             <img src="../images/research/quantum_sensing.png" width="120%"/>
@@ -67,7 +69,8 @@ author_profile: false
     </div>
     Further reading:
     <ul>
-        <li>P.-A. Moreau, E. Toninelli, T. Gregory & M.J. Padgett. <a href="https://doi.org/10.1038/s42254-019-0056-0"> Imaging with quantum states of light.</a> <i>Nature Review Physics</i> <b>1</b>, 367–380 (2019).</li>
+        <li>P.-A. Moreau, <i>et al.</i> <a href="https://doi.org/10.1038/s42254-019-0056-0"> Imaging with quantum states of light.</a> <i>Nature Review Physics</i> <b>1</b>, 367–380 (2019).</li>
+        <li>S. Pirandola, <i>et al.</i> <a href="https://doi.org/10.1038/s41566-018-0301-6"> Advances in photonic quantum sensing.</a> <i>Nature Photonics</i> <b>12</b>, 724–733 (2018).</li>
     </ul>
 </div><br clear="all" />
 

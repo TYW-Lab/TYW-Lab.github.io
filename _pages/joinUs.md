@@ -28,7 +28,7 @@ As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also re
   </ol>  
 </details>
 
-<b>For prospective postdocs</b>: I currently have 1 open position for postdoctoral researchers. Please [contact me](/contact/).
+<b>For prospective postdocs</b>: I currently have 1 open position for postdoctoral researchers. Please [contact me](/contact/) with your CV and publicaiton list. Compared to Ph.D. students, postdoctoral researchers enjoy a higher level of academic freedom and autonomy while taking more responsibilities in project management, student mentoring, and lab build-up, which is especially true as the first postdoc in a new lab.
 
 <b>For master and undergraudate students</b>: We welcome motivated master students and ambitious undergraduates who seek research experience. Please [contact me](/contact/) with your CV, including your prior research experience, skills, and publication.
 
