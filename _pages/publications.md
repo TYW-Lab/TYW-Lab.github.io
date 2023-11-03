@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-<button name="button" onclick="https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=en">Google scholar</button>
+<a href="https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=e" class="btn">Google scholar</a>
 
 {% include base_path %}
 

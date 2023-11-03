@@ -79,7 +79,7 @@ author_profile: false
             Despite the breakthroughs in AI, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not fully understood. The difficulty is twofolded, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
             <ol> 
                 <li> <u>Seeing through scattered light</u>: While optical imaging provides a minimally invasive way to record the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamic nature of tissue-induced light scattering. We are interested in exploring new approaches using a mixture of physics and AI methods for fast light de-scattering. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
-                <li> <u>Understanding neuronal activity data</u>: To test whether current large-scale neuronal recording datasets contain the information necessary for decoding brain functions, we propose using state-of-the-art AI models for neuronal data analysis, with a focus on model's predictive power.</li>
+                <li> <u>Modeling neuronal activity data</u>: To test whether current large-scale neuronal recording datasets contain the information necessary for decoding brain functions, we propose using state-of-the-art AI models for neuronal data analysis, with a focus on model's predictive power.</li>
             </ol>
         </div>
         <div class="columnfighalf">
