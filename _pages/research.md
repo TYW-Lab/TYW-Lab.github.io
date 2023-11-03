@@ -35,12 +35,12 @@ author_profile: false
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px">
     <div class="row">
-        <div class="columntexthalf;justify">
+        <div class="columntexthalf">
             Another opportunity offered by photonic neuromorphic computing is its potential to make smarter and more efficient sensors. Unlike computational imaging, whose goal is to produce full-resolution images through computational reconstruction, the primary goal of image sensing is to capture only salient features at a precision and speed not possible with traditional hardware. This performance is achieved by taking a holistic approach towards system design: By breaking down the walls between imaging, sensing, and computing modules in a conventional system and strategically offloading some computation to optics and sensors, we can train the entire system in an end-to-end fashion for a specific machine-vision task. In general, obtaining results without recording all intermediate data is a neuromorphic design principle, commonly adopted by biological organisms and autonomous systems to perform tasks in real time. We are interested in demonstrating the impact of this computational sensing scheme by using it to solve real-world problems in high-speed robotics and high-throughput biomedical assays.
         </div>
         <div class="columnfighalf">
             <img src="../images/research/onn_sensor.png" width="120%"/>
-            <p style="font-size:10pt;padding-top: 10px;"> 
+            <p style="font-size:10pt;padding-top: 10px;padding-left: 10px"> 
                 Top: The principle of image sensing as compared to traditional computer vision. <br>
                 Bottom: An envisioned application of ultra-fast image sensing for high-throughput biomedical assays.
             </p>
