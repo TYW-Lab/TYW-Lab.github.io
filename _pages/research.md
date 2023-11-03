@@ -67,7 +67,7 @@ author_profile: false
     </div>
     Further reading:
     <ul>
-        <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
+        <li>P.-A. Moreau, E. Toninelli, T. Gregory & M.J. Padgett. <a href="https://doi.org/10.1038/s42254-019-0056-0"> Imaging with quantum states of light.</a> <i>Nature Review Physics</i> <b>1</b>, 367–380 (2019).</li>
     </ul>
 </div><br clear="all" />
 
