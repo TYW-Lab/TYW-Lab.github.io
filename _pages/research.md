@@ -42,7 +42,7 @@ author_profile: false
             <img src="../images/research/onn_sensor.png" width="120%"/>
             <p style="font-size:10pt;padding-top: 10px;"> 
                 Top: The principle of image sensing as compared to traditional computer vision. <br>
-                Bottom: Envision applications of ultra-fast image sensing for high-throughput biomedical assays.
+                Bottom: An envisioned application of ultra-fast image sensing for high-throughput biomedical assays.
             </p>
         </div>
     </div>
@@ -83,16 +83,18 @@ author_profile: false
             </ol>
         </div>
         <div class="columnfighalf">
-            <img src="../images/research/enrual_imaging.png" width="100%"/>
+            <img src="../images/research/neurual_imaging.png" width="100%"/>
             <p style="font-size:10pt;padding-top: 10px;"> 
                 Top: The concept of smart miscroscopy that tailors to sample condition instantly in an autonomous fashion. <br>
-                Bottom: The open question of predicting neuronal activites based on sensory inputs and behavior outputs; image from https://www.sensorium-competition.net.
+                Bottom: The open question of predicting neuronal activites based on sensory inputs and behavior outputs; image from https://doi.org/10.48550/arXiv.2305.19654.
             </p>
         </div>
     </div>
     Further reading:
     <ul>
-        <li>A.E. Carpenter, B.A. Cimini, K.W. Eliceiri <a href="https://doi.org/10.1038/s41592-023-01912-0"> Smart microscopes of the future.</a> <i>Nature Methods</i> <b>20</b>, 962–964 (2023).</li>
+        <li>A.E. Carpenter, B.A. Cimini, K.W. Eliceiri. <a href="https://doi.org/10.1038/s41592-023-01912-0"> Smart microscopes of the future.</a> <i>Nature Methods</i> <b>20</b>, 962–964 (2023).</li>
+        <li>B.A. Richards, T.P. Lillicrap, P.Beaudoin, <i>et al.</i> <a href="https://doi.org/10.1038/s41593-019-0520-2"> A deep learning framework for neuroscience.</a> <i>Nature Neuroscience</i> <b>22</b>, 1761–1770 (2019).</li>
+        <li>S. Gigan, O. Katz, H.B. de Aguiar, <i>et al.</i> <a href="https://doi.org/10.1088/2515-7647/ac76f9"> Roadmap on wavefront shaping and deep imaging in complex media.</a> <i>J. Phys. Photonics</i> <b>4</b>, 042501 (2022).</li>
     </ul>
 </div><br clear="all" />
 
