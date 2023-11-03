@@ -28,10 +28,10 @@ As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also re
   </ol>  
 </details>
 
-<b>For prospective postdocs</b>: I currently have 1 open position for postdoctoral researchers. Please [contact me](/contact/) with your CV and publicaiton list. 
+<b>For prospective post-docs</b>: I currently have 1 open position for postdoctoral researchers. Please [contact me](/contact/) with your CV and publicaiton list. 
 
 Compared to Ph.D. students, postdoctoral researchers enjoy a higher degree of academic freedom and autonomy, while also taking on more responsibilities in project management, student mentoring, and lab development. Being a founding member of a new lab is a unique experience: one has the opportunity to help shape the lab's research directions while developing a broad vision of the research landscape. To be successful in such a role, a candidate should already possess a skill set in a research field and a semi-mature approach to conducting research. If you are interested, please contact me with details about the skills you already have, the skills you wish to acquire, and your career goals. Additionally, it is highly recommended for post-doc candidates to explore eligible fellowships (for instance, [here](https://postdocs.yale.edu/postdocs/funding-opportunities-postdocs) and [here](https://research.fas.harvard.edu/postdoc_opportunities)). It is crucial to plan early for these fellowships, as they sometimes have deadlines that precede the completion of one's Ph.D., and they usually require the candidate to develop a research proposal in collaboration with a prospective advisor. 
 
-<b>For master and undergraudate students</b>: We welcome motivated master students and ambitious undergraduates who seek research experience. Please [contact me](/contact/) with your CV, including your prior research experience, skills, and publication.
+<b>For master and undergraudate students</b>: We welcome motivated master students and ambitious undergraduates who seek research experience, ideally for preparing for a future career in research. Please [contact me](/contact/) with your CV, including your prior research experience, skills, and publication.
 
 <b>For visiting scholars</b>: We are open to hosting those who are interested in our research. Please [contact me](/contact/) directly to discuss about options.
