@@ -11,7 +11,7 @@ author_profile: false
         <div class="columntext">
             Recent advances in artificial intelligence (AI) has resulted in a resurgence of interest in developing photonic neural networks for efficient machine-learning computation. AI and photonic computing form a nice synergy since neural-network models, especially large ones, bring the best out of optical processors by stressing their strengths in data transmission and reuse. Based on these physical properties, photonic neural networks represent a class of analog computing systems that have been experimentally shown to approach the physical limit of computation, using even single photons for each operation. Our interest in photonic neural networks is twofold:
             <ol> 
-                <li> <u>Hardware</u>: We are interested in exploring a hardware solution that enables photonic neural networks to be both scalable and compact. </li>
+                <li> <u>Hardware</u>: We are interested in exploring a hardware platform that enables photonic neural networks to be both scalable and compact. </li>
                 <li> <u>Software</u>: We are interested in using photonic neural networks as a testbed to study novel computing phenomena in the analog noisy regime. </li>
             </ol>
         </div>
@@ -58,18 +58,16 @@ author_profile: false
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
-        <div class="columntext">
-            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision or image resolution. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages in real-world applications.
+        <div class="columntexthalf">
+            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision, image resolution, or multiphoton excitation. However, many questions still remain: Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages for real-world applications.
         </div>
-        <div class="columnfig">
+        <div class="columnfighalf">
             <img src="../images/research/quantum_sensing.png" width="120%"/>
         </div>
     </div>
     Further reading:
     <ul>
         <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
-        <li>P. Sterling and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
-        <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
     </ul>
 </div><br clear="all" />
 
@@ -77,22 +75,24 @@ author_profile: false
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
     <div class="row">
-        <div class="columntext">
+        <div class="columntexthalf">
             Despite the advances in AI, the working principle of its source of inspiration &mdash; biological neural networks &mdash; is still not elucidated. The difficulty comes in twofolds, it is both challenging to measure and to analyze neural activity data. We are interested in helping with this endeavor in two ways:
             <ol> 
-                <li> <u>Seeing through scattered light</u>: While optical imaging provides a minimally invasive means to measure the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring new ways for instant light de-scattering through a mixture of physics and AI methods. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
-                <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording datasets contains the information for decoding brain functions on the circuit level, we will explore state-of-the-art AI models for neuronal data analysis, with a focus on the predictive power of the model.</li>
+                <li> <u>Seeing through scattered light</u>: While optical imaging provides a minimally invasive way to record the activities of biological neurons across a large population, imaging through turbid biological tissue is challenging due to the highly complex and dynamical nature of tissue-induced light scattering. We are interested in exploring new approaches for instant light de-scattering using a mixture of physics and AI methods. When combined with state-of-the-art optical microscopy or spectroscopy, these methods will enable us to substantially push the depth of brain imaging. </li>
+                <li> <u>Understanding neuronal activity data</u>: To test if the information in current large-scale neuronal recording datasets contains the information necessary for decoding brain functions, we propose to use state-of-the-art AI models for neuronal data analysis, with a focus on the predictive power of the model.</li>
             </ol>
         </div>
-        <div class="columnfig">
-            <img src="../images/publications/2023_Laydevant.png" width="100%"/>
+        <div class="columnfighalf">
+            <img src="../images/research/enrual_imaging.png" width="100%"/>
+            <p style="font-size:10pt;padding-top: 10px;"> 
+                Top: The concept of smart miscroscopy that tailors to sample condition instantly in an autonomous fashion. <br>
+                Bottom: The open question of predicting neuronal activites based on sensory inputs and behavior outputs; image from https://www.sensorium-competition.net.
+            </p>
         </div>
     </div>
     Further reading:
     <ul>
-        <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
-        <li>P. Sterling and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
-        <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
+        <li>A.E. Carpenter, B.A. Cimini, K.W. Eliceiri <a href="https://doi.org/10.1038/s41592-023-01912-0"> Smart microscopes of the future.</a> <i>Nature Methods</i> <b>20</b>, 962–964 (2023).</li>
     </ul>
 </div><br clear="all" />
 
