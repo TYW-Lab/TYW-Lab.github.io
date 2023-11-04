@@ -2,12 +2,11 @@
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <img src="../images/Boston_univ_CMYK.png" style="float: left; width: 12%;">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><img src="../images/Boston_univ_CMYK.png" style="width:12%;"><br><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
