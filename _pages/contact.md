@@ -20,23 +20,5 @@ Phone:
 <u>Packages</u>: 22 Babbitt Street Boston, MA 02215, Room 103B (Door code applies to this room, and please contact me for it.)
 
 
-<style>
-.responsive-map {
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    position: relative;
-    height: 0;
-}
-.responsive-map iframe {
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
-</style>
-
-<div class="responsive-map">
-    <iframe src="https://www.google.com/maps/d/embed?mid=1lg_S5-g6jTJ7n9BzltlJUgfOPZROPiU&ehbc=2E312F" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div>
+<iframe src="https://www.google.com/maps/d/embed?mid=1lg_S5-g6jTJ7n9BzltlJUgfOPZROPiU&ehbc=2E312F" width="640" height="480"></iframe>
 
