@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyu Wang Research Group"
+title                    : "Tianyu Wang Research Lab"
 title_separator          : "-"
 name                     : &name "Tianyu Wang "
 description              : &description "personal description"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/tianyu-wang-44247040"
   orcid            : "https://orcid.org/0000-0002-6087-6376"
   pinterest        :
   soundcloud       :
