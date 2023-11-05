@@ -8,7 +8,7 @@ author_profile: false
 
 {% include base_path %}
 
-<a href="https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=e" class="btn"style="margin-left: -50px;">Google scholar</a>
+<a href="https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=e" class="btn" style="margin-left: -50px;">Google scholar</a>
 
 <section id="main" >
 	<div class="inner">
