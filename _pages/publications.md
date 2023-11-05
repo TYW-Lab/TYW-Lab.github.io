@@ -5,6 +5,7 @@ author_profile: false
 ---
 
 <h1 style="margin-left: -50px;">Publications</h1>
+
 <a href="https://scholar.google.com/citations?user=lqIvJCgAAAAJ&hl=e" class="btn"style="margin-left: -50px;">Google scholar</a>
 
 {% include base_path %}
