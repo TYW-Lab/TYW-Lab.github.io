@@ -10,8 +10,8 @@ author_profile: false
 
 <section id="main" >
 	<div class="inner">
-		<h2>2023</h2>
-		    <div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2023</h2>
+		    <div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2023_Laydevant.png" width="100%"/>
@@ -23,7 +23,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2023_Wang.png" width="105%"/>
@@ -35,7 +35,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2023_Ma.png" width="100%"/>
@@ -47,7 +47,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2023_Anderson.png" width="100%"/>
@@ -59,8 +59,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2022</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2022</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2022_Wright.png" width="80%"/>
@@ -72,7 +72,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2022_Choe.png" width="100%"/>
@@ -84,7 +84,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2022_Wang.png" width="90%"/>
@@ -96,7 +96,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		        <div style="font-size:12pt;line-height:1.5;">
+		        <div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2022_Sinefeld.png" width="90%"/>
@@ -108,8 +108,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2021</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2021</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2021_MiCrONs.png" width="100%"/>
@@ -121,8 +121,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2020</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2020</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2020_Optica.png" width="100%"/>
@@ -134,7 +134,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2020_MOTE.png" width="100%"/>
@@ -146,7 +146,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2020_OWICS.png" width="100%"/>
@@ -158,7 +158,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		        <div style="font-size:12pt;line-height:1.5;">
+		        <div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2020_eLife.png" width="100%"/>
@@ -170,8 +170,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2019</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2019</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2019_DFF.png" width="100%"/>
@@ -183,8 +183,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2018</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2018</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2018_skull.png" width="100%"/>
@@ -196,8 +196,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2017</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2017</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2017_hippocampus.png" width="100%"/>
@@ -209,7 +209,7 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;">
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2017_MIIPS.png" width="100%"/>
@@ -221,8 +221,8 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2>2016</h2>
-			<div style="font-size:12pt;line-height:1.5;">
+		<h2 style="margin-left: -50px;">2016</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
 						<img src="../images/publications/2016_NIRSoliton.png" width="100%"/>
