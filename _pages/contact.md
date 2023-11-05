@@ -26,6 +26,6 @@ Walking distance zones: <span style="color: #a1c2fa;">■</span> 15 min;  <span 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1lg_S5-g6jTJ7n9BzltlJUgfOPZROPiU&ehbc=2E312F" width="960" height="600"></iframe>
 
-Photonics Center and BU Campus  <a href="https://www.bu.edu/alumni/news/web-cams/">Live camera</a>
+The environment around BU Photonics Center (also with <a href="https://www.bu.edu/alumni/news/web-cams/">live camera</a>)
 
 <img src="../images/BU_birdview.jpg" width="100%"/>
