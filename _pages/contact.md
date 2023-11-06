@@ -19,6 +19,10 @@ Phone:
 
 <u>Packages</u>: 22 Babbitt Street Boston, MA 02215, Room 103B (Door code applies to this room, and please contact me for it.)
 
+External links:
+<a href="https://www.bu.edu/eng/profile/tianyu-wang-phd/">BU ECE Page</a>
+
+<a href="https://www.bu.edu/neurophotonics/people/faculty/">BU Biophotonics Center Page</a>
 
 <b>Interactive Map</b>
 
