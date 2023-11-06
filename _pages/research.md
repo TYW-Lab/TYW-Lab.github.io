@@ -4,6 +4,8 @@ title: ""
 author_profile: false
 ---
 
+<h1 style="margin-left: -50px;">Research Topics</h1>
+
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Neuromorphic Computing with Light</span> </h2>
 
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;">
@@ -108,7 +110,7 @@ author_profile: false
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
     <div class="row">
         <div class="columntext">
-            Recent advances in AI, including reinforcement learning, multimodal, few-shot learning, and large language models, will generate long-lasting impacts on how we conduct scientific research, from how experiments are desinged and performed to how the results are analyzed and circulated. In this regard, we are keen on exploring ways state-of-the-art AI models and tools can be leveraged for making experimental designs through reinforcement learning, improving instrumentation through adaptive training, and creating novel devices through inverse design.  
+            Recent advances in AI, including reinforcement learning, multimodal, few-shot learning, and large language models, will generate long-lasting impacts on how we conduct scientific research, from how experiments are desinged and performed to how the results are analyzed and circulated. In this regard, we are keen on exploring ways state-of-the-art AI models and tools can be used to accelerate scientific research and rethinking the roles human researchers play in science. 
         </div>
         <div class="columnfig">
             <img src="../images/research/AI_4_science.png" width="120%"/>
