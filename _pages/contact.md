@@ -28,7 +28,7 @@ author_profile: true
 External links:
 
 <a style="margin-left: 20px" href="https://www.bu.edu/eng/profile/tianyu-wang-phd/">BU ECE Page</a><br>
-<a href="https://www.bu.edu/neurophotonics/people/faculty/">BU Biophotonics Center Page</a>
+<a style="margin-left: 20px" href="https://www.bu.edu/neurophotonics/people/faculty/">BU Biophotonics Center Page</a>
 
 <b>Interactive Map</b>
 
