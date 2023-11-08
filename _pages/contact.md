@@ -8,17 +8,17 @@ author_profile: true
 
 <p style="margin-left: 20px">Photonics Center, Room 725 <br>8 St. Mary’s Street <br>Boston, MA 02215 </p>
 
-<p style="margin-left: 20px">Email: wangty-at-bu-dot-edu</p>
+<p style="margin-left: 0px">Email: wangty-at-bu-dot-edu</p>
 
-<p style="margin-left: 20px">Phone: 617-353-3251</p>
+<p style="margin-left: 0px">Phone: 617-353-3251</p>
 
 <b>Mailing Address</b>
 
-<u>Paper mails</u>: 
+<u>Paper mail</u>: 
 
 <p style="margin-left: 20px">Photonics Center, Room 725<br>8 St. Mary’s Street <br>Boston, MA 02215</p>
 
-<u>Packages</u>: 
+<u>Package</u>: 
 
 <p style="margin-left: 20px">Room 103B<br>22 Babbitt Street<br> Boston, MA 02215</p>
 
