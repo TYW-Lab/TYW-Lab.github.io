@@ -4,11 +4,13 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
+<style>
 p {
   margin: 0;      /* Removes the default margin from paragraphs */
   padding: 0;     /* Removes the default padding from paragraphs */
   line-height: 1; /* Sets line height to 1 to ensure single spacing */
 }
+</style>
 
 <b>Office Address</b>
 
