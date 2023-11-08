@@ -4,19 +4,11 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-<style>
-p {
-  margin: 0;      /* Removes the default margin from paragraphs */
-  padding: 0;     /* Removes the default padding from paragraphs */
-  line-height: 1; /* Sets line height to 1 to ensure single spacing */
-}
-</style>
-
 <b>Office Address</b>
 
-<p>Photonics Center, Room 725</p>
-<p>8 St. Mary’s Street </p>
-<p>Boston, MA 02215</p>
+Photonics Center, Room 725 <br>
+8 St. Mary’s Street <br>
+Boston, MA 02215
 
 Email: wangty-at-bu-dot-edu
 
