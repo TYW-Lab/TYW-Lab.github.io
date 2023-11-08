@@ -13,7 +13,7 @@ author_profile: true
 
 Email: wangty-at-bu-dot-edu
 
-Phone: 
+Phone: 617-353-3251
 
 <b>Mailing Address</b>
 
@@ -32,6 +32,7 @@ Phone:
 (A door code applies to this room. Please contact me in advance for it.)
 
 External links:
+
 <a href="https://www.bu.edu/eng/profile/tianyu-wang-phd/">BU ECE Page</a>
 
 <a href="https://www.bu.edu/neurophotonics/people/faculty/">BU Biophotonics Center Page</a>
