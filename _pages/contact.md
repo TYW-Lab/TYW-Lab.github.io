@@ -7,9 +7,9 @@ author_profile: true
 
 <b>Office Address</b>
 
-Photonics Center, Room 725
-8 St. Mary’s Street 
-Boston, MA 02215
+<p>Photonics Center, Room 725</p>
+<p>8 St. Mary’s Street </p>
+<p>Boston, MA 02215</p>
 
 Email: wangty-at-bu-dot-edu
 
@@ -19,15 +19,15 @@ Phone:
 
 <u>Paper mails</u>: 
 
-Photonics Center, Room 725
-8 St. Mary’s Street 
-Boston, MA 02215
+<p>Photonics Center, Room 725</p>
+<p>8 St. Mary’s Street </p>
+<p>Boston, MA 02215</p>
 
 <u>Packages</u>: 
 
-Room 103B
-22 Babbitt Street 
-Boston, MA 02215 
+<p>Room 103B</p>
+<p>22 Babbitt Street</p> 
+<p>Boston, MA 02215</p>
 
 (A door code applies to this room. Please contact me in advance for it.)
 
