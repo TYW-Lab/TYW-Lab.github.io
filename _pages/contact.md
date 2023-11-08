@@ -7,17 +7,35 @@ author_profile: true
 
 <b>Office Address</b>
 
-8 St. Mary’s Street Boston, MA 02215, Room 725
+Photonics Center, Room 725
 
-Email:
+8 St. Mary’s Street 
+
+Boston, MA 02215
+
+Email: wangty-at-bu-dot-edu
 
 Phone: 
 
 <b>Mailing Address</b>
 
-<u>Paper mails</u>: 8 St. Mary’s Street Boston, MA 02215, Room 725
+<u>Paper mails</u>: 
 
-<u>Packages</u>: 22 Babbitt Street Boston, MA 02215, Room 103B (Door code applies to this room, and please contact me for it.)
+Photonics Center, Room 725
+
+8 St. Mary’s Street 
+
+Boston, MA 02215
+
+<u>Packages</u>: 
+
+Room 103B
+
+22 Babbitt Street 
+
+Boston, MA 02215 
+
+(A door code applies to this room. Please contact me in advance for it.)
 
 External links:
 <a href="https://www.bu.edu/eng/profile/tianyu-wang-phd/">BU ECE Page</a>
