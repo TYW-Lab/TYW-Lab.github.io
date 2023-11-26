@@ -16,7 +16,7 @@ If you plan to apply to a Ph.D. program that starts in Fall 2024, you can consid
 As a Ph.D. student in ECE or BME, your tuition is covered by BU, and you also receive a stipend for your research or teaching activities ([ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf); [BME PhD handbook](https://www.bu.edu/eng/files/2023/10/BME-PhD-Handbook-Fall-2023.pdf)). Meanwhile, you are strongly encouraged to apply to internal and external graduate fellowships ([here](https://www.bu.edu/photonics/prt/benefits-of-a-photonics-center-phd-trainee/); p.10 in the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf)). A unique benefit of attending Boston University is its [strategic location](/contact/), which provides you with unparalleled access to academic resources, networking opportunities, and cultural enrichment.
 
 <details>
-  <summary> <u>A word on why pursuing a Ph.D. and what to expect</u></summary>
+  <summary> <u>A word on why to pursue a Ph.D. and what to expect from it </u></summary>
 
     Pursuing a Ph.D. is a journey to develop one's scholarship as an independent researcher, a quality required for academic and certain industry positions. A proven approach to achieving this goal is by conducting an original study under the guidance of a thesis advisor. Ideally, a good academic study should be developed to address questions that will likely lead to surprising discoveries unexpected from current knowledge, and an impactful work should aim to inspire future research. The selection and completion of the Ph.D. thesis typically requires close collaboration between the trainee, the advisor, and other colleagues. The following quallities tend to be helpful for this endeavor:
   <ol>

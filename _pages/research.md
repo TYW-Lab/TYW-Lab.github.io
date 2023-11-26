@@ -28,7 +28,7 @@ author_profile: false
     Further reading:
     <ul>
         <li>P.L. McMahon. <a href="https://doi.org/10.1038/s42254-023-00645-5">The physics of optical computing.</a> <i>Nature Review Physics</i> (2023).</li>
-        <li>T. Wang, <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
+        <li><u>T. Wang</u>, <i>et al.</i> <a href="https://doi.org/10.1038/s41467-021-27774-8">An optical neural network using less than 1 photon per multiplication.</a> <i>Nature Communications</i> <b>13</b>, 123 (2022).</li>
         <li>S. Lloyd. <a href="https://doi.org/10.1038/35023282">Ultimate physical limits to computation.</a> <i>Nature</i> <b>406</b>, 1047–1054 (2000) | Wikipedia <a href="https://en.wikipedia.org/wiki/Limits_of_computation#:~:text=Seth%20Lloyd%20calculated%20the%20computational,it%20could%20compute%20at%20a">Limits of Computation</a></li>
     </ul>
 </div><br clear="all" />
@@ -53,7 +53,7 @@ author_profile: false
     <ul>
         <li>G. Wetzstein, A. Ozcan, S. Gigan, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Inference in artificial intelligence with deep optics and photonics.</a> <i>Nature</i> <b>588</b>, 39–47 (2020).</li>
         <li>P. Sterling and S. Laughlin. <i>Principles of Neural Design</i> (MIT Press, 2015).</li>
-        <li>T. Wang*, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
+        <li><u>T. Wang*</u>, M.M. Sohoni*, L.G. Wright, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-020-2973-6"> Image sensing with multilayer, nonlinear optical neural networks.</a> <i>Nature Photonics</i> <b>17</b>, 408 - 415 (2023).</li>
     </ul>
 </div><br clear="all" />
 
@@ -100,7 +100,9 @@ author_profile: false
         <li>A.E. Carpenter, B.A. Cimini, K.W. Eliceiri. <a href="https://doi.org/10.1038/s41592-023-01912-0"> Smart microscopes of the future.</a> <i>Nature Methods</i> <b>20</b>, 962–964 (2023).</li>
         <li>B.A. Richards, T.P. Lillicrap, P.Beaudoin, <i>et al.</i> <a href="https://doi.org/10.1038/s41593-019-0520-2"> A deep learning framework for neuroscience.</a> <i>Nature Neuroscience</i> <b>22</b>, 1761–1770 (2019).</li>
         <li>S. Gigan, O. Katz, H.B. de Aguiar, <i>et al.</i> <a href="https://doi.org/10.1088/2515-7647/ac76f9"> Roadmap on wavefront shaping and deep imaging in complex media.</a> <i>J. Phys. Photonics</i> <b>4</b>, 042501 (2022).</li>
-        <li>T. Wang, and C. Xu <a href="https://doi.org/10.1364/OPTICA.395825"> Three-photon neuronal imaging in deep mouse brain.</a> <i>Optica</i> <b>7</b>, 947-960 (2020).</li>
+        <li><u>T. Wang</u>, and C. Xu <a href="https://doi.org/10.1364/OPTICA.395825"> Three-photon neuronal imaging in deep mouse brain.</a> <i>Optica</i> <b>7</b>, 947-960 (2020).</li>
+        <li><u>T. Wang</u>, ... and C. Xu <a href="https://doi.org/10.1038/s41592-018-0115-y"> Three-photon imaging of mouse brain structure and function through the intact skull.</a> <i>Nature Methods</i> <b>15</b>, 789-792 (2018).</li>
+        <li>D.G. Ouzounov*, <u>T. Wang*</u>, ... and C. Xu <a href="https://doi.org/10.1038/nmeth.4183"> In vivo three-photon imaging of activity of GCaMP6-labeled neurons deep in intact mouse brain. </a> <i>Nature Methods</i> <b>14</b>, 388-390 (2017).</li>
     </ul>
 </div><br clear="all" />
 
@@ -119,7 +121,7 @@ author_profile: false
     Further reading:
     <ul>
         <li>H. Wang, T. Fu, Y. Du, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-023-06221-2">Scientific discovery in the age of artificial intelligence.</a> <i>Nature</i> <b>620</b>, 47–60 (2023).</li>
-        <li>L.G. Wright*, T. Onodera*, M.M. Stein, <i>et al.</i> <a href="https://doi.org/10.1038/s41586-021-04223-6">Deep physical neural networks trained with backpropagation.</a> <i>Nature</i> <b>601</b>, 549-555 (2022).</li>
+        <li>L.G. Wright*, T. Onodera*, M.M. Stein, <u>T. Wang</u> <i>et al.</i> <a href="https://doi.org/10.1038/s41586-021-04223-6">Deep physical neural networks trained with backpropagation.</a> <i>Nature</i> <b>601</b>, 549-555 (2022).</li>
     </ul>
 </div><br clear="all" />
 
