@@ -57,27 +57,6 @@ author_profile: false
     </ul>
 </div><br clear="all" />
 
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Imaging and Sensing with Quantum Light</span> </h2>
-
-<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
-    <div class="row">
-        <div class="columntexthalf">
-            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision, image resolution, or multiphoton excitation. However, many questions still remain: <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages for real-world applications.
-        </div>
-        <div class="columnfighalf">
-            <img src="../images/research/quantum_sensing.png" width="120%"/>
-        </div>
-    </div>
-    Further reading:
-    <ul>
-        <li>P.-A. Moreau, <i>et al.</i> <a href="https://doi.org/10.1038/s42254-019-0056-0"> Imaging with quantum states of light.</a> <i>Nature Review Physics</i> <b>1</b>, 367–380 (2019).</li>
-        <li>S. Pirandola, <i>et al.</i> <a href="https://doi.org/10.1038/s41566-018-0301-6"> Advances in photonic quantum sensing.</a> <i>Nature Photonics</i> <b>12</b>, 724–733 (2018).</li>
-    </ul>
-</div><br clear="all" />
-
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> </h2>
-
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
     <div class="row">
         <div class="columntexthalf">
@@ -102,9 +81,30 @@ author_profile: false
         <li>S. Gigan, O. Katz, H.B. de Aguiar, <i>et al.</i> <a href="https://doi.org/10.1088/2515-7647/ac76f9"> Roadmap on wavefront shaping and deep imaging in complex media.</a> <i>J. Phys. Photonics</i> <b>4</b>, 042501 (2022).</li>
         <li><u>T. Wang</u>, and C. Xu <a href="https://doi.org/10.1364/OPTICA.395825"> Three-photon neuronal imaging in deep mouse brain.</a> <i>Optica</i> <b>7</b>, 947-960 (2020).</li>
         <li><u>T. Wang</u>, ... and C. Xu <a href="https://doi.org/10.1038/s41592-018-0115-y"> Three-photon imaging of mouse brain structure and function through the intact skull.</a> <i>Nature Methods</i> <b>15</b>, 789-792 (2018).</li>
-        <li>D.G. Ouzounov*, <u>T. Wang*</u>, ... and C. Xu <a href="https://doi.org/10.1038/nmeth.4183"> In vivo three-photon imaging of activity of GCaMP6-labeled neurons deep in intact mouse brain. </a> <i>Nature Methods</i> <b>14</b>, 388-390 (2017).</li>
+        <li>D.G. Ouzounov*, <u>T. Wang*</u>, ... and C. Xu <a href="https://doi.org/10.1038/nmeth.4183"> In vivo three-photon imaging of activity of GCaMP6-labeled neurons deep in intact mouse brain.</a> <i>Nature Methods</i> <b>14</b>, 388-390 (2017).</li>
     </ul>
 </div><br clear="all" />
+
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Imaging and Sensing with Quantum Light</span> </h2>
+
+<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
+    <div class="row">
+        <div class="columntexthalf">
+            Quantum and other exotic states of light are enticing for imaging and sensing applications. This is because quantum resources, such as entanglement, allow us to engineer the collective behavior of multiple photons, enabling each photon to carry more information than its classical counterpart. This extra information translates to various forms of quantum sensing/imaging advantages, such as enhanced phase measurement precision, image resolution, or multiphoton excitation. However, many questions still remain: <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Can we engineer a state of light that can lead to scalable quantum sensing advantages, in presence of loss and background noise? How can we utilize quantum resources for an advantage in machine-learning tasks? In the context of optical imaging and sensing, we are interested in developing systems and computational methods to demonstrate practical quantum sensing advantages for real-world applications.
+        </div>
+        <div class="columnfighalf">
+            <img src="../images/research/quantum_sensing.png" width="120%"/>
+        </div>
+    </div>
+    Further reading:
+    <ul>
+        <li>P.-A. Moreau, <i>et al.</i> <a href="https://doi.org/10.1038/s42254-019-0056-0"> Imaging with quantum states of light.</a> <i>Nature Review Physics</i> <b>1</b>, 367–380 (2019).</li>
+        <li>S. Pirandola, <i>et al.</i> <a href="https://doi.org/10.1038/s41566-018-0301-6"> Advances in photonic quantum sensing.</a> <i>Nature Photonics</i> <b>12</b>, 724–733 (2018).</li>
+    </ul>
+</div><br clear="all" />
+
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> </h2>
 
 
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for Physical Sciences</span> </h2>
