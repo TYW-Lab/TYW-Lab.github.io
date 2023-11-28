@@ -57,6 +57,8 @@ author_profile: false
     </ul>
 </div><br clear="all" />
 
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> </h2>
+
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
     <div class="row">
         <div class="columntexthalf">
@@ -103,8 +105,6 @@ author_profile: false
         <li>S. Pirandola, <i>et al.</i> <a href="https://doi.org/10.1038/s41566-018-0301-6"> Advances in photonic quantum sensing.</a> <i>Nature Photonics</i> <b>12</b>, 724–733 (2018).</li>
     </ul>
 </div><br clear="all" />
-
-<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Understanding Biological Neural Computation with Light</span> </h2>
 
 
 <h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Artificial Intelligence for Physical Sciences</span> </h2>
