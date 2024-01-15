@@ -21,7 +21,7 @@ author_profile: false
 					<div class="columntext">
 						J. Laydevant, L.G. Wright, T. Wang, P.L. McMahon<br />
 						<span style="font-weight:bold;">The hardware is the software</span><br/>
-						<a href="https://doi.org/10.48550/arXiv.2310.18335" style="font-weight:bold;"><i>arXiv:2310.18335</i> (2023)</a>
+						<a href="[Title](https://doi.org/10.1016/j.neuron.2023.11.004)" style="font-weight:bold;"><i>Neuron</i> (2023)</a> | <a href="https://doi.org/10.48550/arXiv.2310.18335">arXiv</a>
 					</div>
 				</div>
 			</div><br clear="all" />
