@@ -16,6 +16,18 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
+						<img src="../images/publications/2023_Anderson.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						M.G. Anderson, S.-Y. Ma, T. Wang, L.G. Wright, P.L. McMahon<br />
+						<span style="font-weight:bold;">Optical Transformers</span><br/>
+						<a href="https://openreview.net/forum?id=Xxw0edFFQC" style="font-weight:bold;"><i>Transactions on Machine Learning Research</i> (2024)</a> | <a href="https://arxiv.org/abs/2302.10360" style="font-weight:bold;"><i>arXiv:2302.10360</i> (2023)</a> | <a href="https://zenodo.org/doi/10.5281/zenodo.7574197">code repo</a>
+					</div>
+				</div>
+			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
+				<div class="row">
+					<div class="columnfig">
 						<img src="../images/publications/2023_Laydevant2.png" width="90%"/>
 					</div>
 					<div class="columntext">
@@ -25,7 +37,6 @@ author_profile: false
 					</div>
 				</div>
 			</div><br clear="all" />
-		<h2 style="margin-left: -50px;">2024</h2>
 		<h2 style="margin-left: -50px;">2023</h2>
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
@@ -48,18 +59,6 @@ author_profile: false
 						S.-Y. Ma, T. Wang, J. Laydevant, L.G. Wright, P.L. McMahon<br />
 						<span style="font-weight:bold;">Quantum-noise-limited optical neural networks operating at a few quanta per activation</span><br/>
 						<a href="https://arxiv.org/abs/2307.15712" style="font-weight:bold;"><i>arXiv:2307.15712</i> (2023)</a>
-					</div>
-				</div>
-			</div><br clear="all" />
-			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
-				<div class="row">
-					<div class="columnfig">
-						<img src="../images/publications/2023_Anderson.png" width="100%"/>
-					</div>
-					<div class="columntext">
-						M.G. Anderson, S.-Y. Ma, T. Wang, L.G. Wright, P.L. McMahon<br />
-						<span style="font-weight:bold;">Optical Transformers</span><br/>
-						<a href="https://arxiv.org/abs/2302.10360" style="font-weight:bold;"><i>arXiv:2302.10360</i> (2023)</a>
 					</div>
 				</div>
 			</div><br clear="all" />
