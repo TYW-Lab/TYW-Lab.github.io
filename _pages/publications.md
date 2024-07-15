@@ -21,7 +21,7 @@ author_profile: false
 					<div class="columntext">
 						M.G. Anderson, S.-Y. Ma, T. Wang, L.G. Wright, P.L. McMahon<br />
 						<span style="font-weight:bold;">Optical Transformers</span><br/>
-						<a href="https://openreview.net/forum?id=Xxw0edFFQC" style="font-weight:bold;"><i>Transactions on Machine Learning Research</i> (2024)</a> | <a href="https://arxiv.org/abs/2302.10360" style="font-weight:bold;"><i>arXiv:2302.10360</i></a> | <a href="https://zenodo.org/doi/10.5281/zenodo.7574197">code repo</a>
+						<a href="https://openreview.net/forum?id=Xxw0edFFQC" style="font-weight:bold;"><i>Transactions on Machine Learning Research</i> (2024)</a> | <a href="https://arxiv.org/abs/2302.10360" style="font-weight:bold;">arXiv</a> | <a href="https://zenodo.org/doi/10.5281/zenodo.7574197">code repo</a>
 					</div>
 				</div>
 			</div><br clear="all" />
