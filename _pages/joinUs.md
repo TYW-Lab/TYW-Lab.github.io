@@ -5,7 +5,7 @@ title: "Join Us"
 author_profile: true
 ---
 
-<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please [reach out to me](/contact/) with a list of your publications or projects. <u>Currently, there is 1 PhD position open for Fall 2025 academic year matriculate</u>. My lab is built on the unique synergies of the following three research areas. Typically, students are encouraged to first specialize in one area, and then expand to the others based on their career development needs:
+<b>For current or prospective Ph.D. students</b>: If you are interested in joining me as a Ph.D. student, please [reach out to me](/contact/) with a list of your publications or projects. <u>Currently, we have 1 PhD position open for Fall 2025 semester matriculation</u>. My lab is built on the unique synergies of the following three research areas. Typically, students are encouraged to first specialize in one area, and then expand to the others based on their career development needs:
 
 * <u>Photonics</u>: You enjoy the process of overcoming challenges in experiments, which typically involves careful experimental design and planning, meticulous handling of sensitive instruments, and a lot of troubleshooting to get things to work. Prior experience with either free-space optics or nanophotonics is a plus.
 * <u>Computation</u>: You're keen on learning programming and machine learning to solve scientific problems, which involves in-depth understanding of the underlying scientific problem and lots of coding and debugging. Prior experience in Python and training of state-of-the-art machine-learning models is a plus.
