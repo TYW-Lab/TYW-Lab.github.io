@@ -11,9 +11,9 @@ We are interested in studying different forms of information processing that can
 <a href="https://tyw-lab.github.io/research/" class="btn">Learn More</a>
 
 
-<h1 style="margin-left: -50px;">Funding Agencies</h1>
+<h1 style="margin-left">Funding Agencies</h1>
 
-<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
+<div style="font-size:14pt;line-height:1.5;margin-left: justify">
     <div class="row">
         <div class="columnfig">
             <img src="../images/funding/Chan_Zuckerberg_Initiative.png" width="20%"/>
