@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /team/
+permalink: /Team/
 title: "Team"
 author_profile: false
 ---
