@@ -9,3 +9,14 @@ Welcome to <span style="color: #cc0000;">Tianyu Wang Research Group</span> in th
 We are interested in studying different forms of information processing that can plausibly exist in natural and artificial systems. For example, by re-examining the connection between photonics and computing, we can gain insights on how to engineer better computing, sensing, and imaging systems that maximally extracts the computing power intrinsically embedded in optical processes. This principle has led to <span style="color: #cc0000;">optical processors</span> and <span style="color: #cc0000;">neuromorphic processors/sensors</span> that are faster, more sensitive, and more energy efficient than traditional systems solely based on digital electronics. 
 
 <a href="https://tyw-lab.github.io/research/" class="btn">Learn More</a>
+
+
+<h2 style="font-size:18pt;line-height:1.5;margin-left: -50px;"> <span style="color: #cc0000;">Funding Agencies</span> </h2>
+
+<div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
+    <div class="row">
+        <div class="columnfig">
+            <img src="../images/funding/Chan_Zuckerberg_Initiative.png" width="100%"/>
+        </div>
+    </div>
+</div><br clear="all" />
