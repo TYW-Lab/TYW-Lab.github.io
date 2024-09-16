@@ -16,7 +16,7 @@ We are interested in studying different forms of information processing that can
 <div style="font-size:14pt;line-height:1.5;margin-left: -50px;justify">
     <div class="row">
         <div class="columnfig">
-            <img src="../images/funding/Chan_Zuckerberg_Initiative.png" width="100%"/>
+            <img src="../images/funding/Chan_Zuckerberg_Initiative.png" width="10%"/>
         </div>
     </div>
 </div><br clear="all" />
