@@ -16,6 +16,18 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
 					<div class="columnfig">
+						<img src="../images/publications/2024_NewsViews.png" width="100%"/>
+					</div>
+					<div class="columntext">
+						T. Wang <br />
+						<span style="font-weight:bold;">A nonlinear dimension for machine learning in optical disordered media</span><br/>
+						<a href="https://doi.org/10.1038/s43588-024-00648-x" style="font-weight:bold;"><i>Nature Computational Science</i> <b>4</b>, 394 - 395 (2024)</a> 
+					</div>
+				</div>
+			</div><br clear="all" />
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
+				<div class="row">
+					<div class="columnfig">
 						<img src="../images/publications/2023_Anderson.png" width="100%"/>
 					</div>
 					<div class="columntext">
